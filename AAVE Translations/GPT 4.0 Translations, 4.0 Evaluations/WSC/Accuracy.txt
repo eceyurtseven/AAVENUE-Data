@@ -1,0 +1,3 @@
+Standard English accuracy (WSC): 0.5458860759493671
+AAVE accuracy (WSC): 0.5237341772151899
+z-statistic (WSC): 0.7894771445302902, p-value (WSC): 0.42983318293226347

@@ -1,0 +1,3 @@
+Standard English accuracy (BoolQA): 0.8808808808808809
+AAVE accuracy (BoolQA): 0.7617617617617618
+z-statistic (BoolQA): 6.9495439330587505, p-value (BoolQA): 3.664689883831148e-12

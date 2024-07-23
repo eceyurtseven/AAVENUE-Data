@@ -1,0 +1,2 @@
+Standard English accuracy (WSC): 0.495253164556962  45.5%
+AAVE accuracy (WSC): 0.5063291139240507  50.6%

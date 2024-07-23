@@ -1,0 +1,2 @@
+Standard English (SE) Accuracy: 51.2%
+AAVE Accuracy: 49.5%

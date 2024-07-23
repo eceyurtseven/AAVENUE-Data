@@ -1,0 +1,2 @@
+SE Response Accuracy: 82.38%
+AAVE Response Accuracy: 75.35%

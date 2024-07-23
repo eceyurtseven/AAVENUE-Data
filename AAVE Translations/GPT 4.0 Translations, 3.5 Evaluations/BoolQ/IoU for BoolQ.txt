@@ -1,0 +1,3 @@
+Intersection over Union (IoU) for Questions: 0.004553734061930784, 0%
+Intersection over Union (IoU) for Passages: 0.0015274949083503055, 0%
+Proportion of questions where both SE and AAVE answers are wrong: 0.11192468619246862, 11%

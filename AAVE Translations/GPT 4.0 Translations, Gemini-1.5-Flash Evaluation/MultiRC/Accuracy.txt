@@ -1,0 +1,2 @@
+Standard English accuracy (Multi-RC): 0.862  86.2%
+AAVE accuracy (Multi-RC): 0.794  79.4%

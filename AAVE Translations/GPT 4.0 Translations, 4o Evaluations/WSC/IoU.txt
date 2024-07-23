@@ -1,0 +1,4 @@
+Intersection over Union (IoU) for Passages: 0.014035087719298246, 1%
+Intersection over Union (IoU) for Span1: 0.37857142857142856, 38%
+Intersection over Union (IoU) for Span2: 0.5384615384615384, 54%
+Intersection over Union (IoU) for wrong references in Passages: 0.015521064301552107, 2%

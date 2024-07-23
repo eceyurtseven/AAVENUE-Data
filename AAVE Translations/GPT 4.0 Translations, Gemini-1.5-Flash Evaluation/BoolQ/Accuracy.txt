@@ -1,0 +1,2 @@
+Standard English accuracy (BoolQA): 0.8818818818818819  88.2%
+AAVE accuracy (BoolQA): 0.7667667667667668  76.7%

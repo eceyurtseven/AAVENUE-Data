@@ -1,0 +1,503 @@
+Premise,Translated Premise,Choice1,Translated Choice1,Choice2,Translated Choice2,Actual Label,SE Response,AAVE Response
+The man turned on the faucet.,The man turned on the faucet.,The toilet filled with water.,The toilet filled up with water.,Water flowed from the spout.,Water was flowin' from the spout.,1,1,1
+The girl found a bug in her cereal.,Da girl found a bug in her cereal.,She poured milk in the bowl.,She poured milk in the bowl.,She lost her appetite.,She ain't hungry no more.,1,1,1
+The woman retired.,The woman retired.,She received her pension.,She got her pension.,She paid off her mortgage.,She paid off her mortgage.,0,0,0
+I wanted to conserve energy.,I wanted to save energy.,I swept the floor in the unoccupied room.,I swept the floor in the empty room.,I shut off the light in the unoccupied room.,I turned off the light in the empty room.,1,1,1
+The hamburger meat browned.,Da hamburger meat browned.,The cook froze it.,Da cook froze it.,The cook grilled it.,Da cook grilled it.,1,1,1
+I doubted the salesman's pitch.,I ain't trust that salesman's pitch.,I turned his offer down.,I turned his offer down.,He persuaded me to buy the product.,He talked me into buyin' the product.,0,0,0
+I decided to stay home for the night.,I decided to stay home for the night.,The forecast called for storms.,Da forecast say it finna storm.,My friends urged me to go out.,My friends was pressin' me to go out.,0,0,1
+My eyes became red and puffy.,My eyes got red and puffy.,I was sobbing.,I was cryin'.,I was laughing.,I was crackin' up.,0,0,0
+The flame on the candle went out.,De flame on de candle went out.,I blew on the wick.,I blew on the wick.,I put a match to the wick.,I lit the wick.,0,0,0
+The man drank heavily at the party.,The man was drankin' heavy at the party.,He had a headache the next day.,He had a headache the next day.,He had a runny nose the next day.,He had a runny nose the next day.,0,0,0
+The bowling ball knocked over the bowling pins.,Da bowling ball knocked over dem bowling pins.,The man rolled the bowling ball down the alley.,Dat man rolled the bowling ball down the alley.,The man dropped the bowling ball on his foot.,Da man dropped da bowling ball on his foot.,0,0,0
+The community learned of the man's death.,The community found out the man died.,His family buried him in the cemetery.,His family buried him in the cemetery.,His obituary appeared in the newspaper.,His obituary was in the newspaper.,1,1,0
+My computer crashed.,My computer done crashed.,I installed new speakers.,I put in some new speakers.,I lost all my data.,I lost all my data.,1,1,1
+The woman resigned from her job.,Da woman quit her job.,She aspired to hold an executive position in the firm.,She wanted to hold a top spot in the firm.,She believed her superiors were acting unethically.,She believed her bosses was actin' shady.,1,1,1
+The player caught the ball.,The player caught the ball.,Her teammate threw it to her.,Her teammate threw it to her.,Her opponent tried to intercept it.,Her opponent tried to snatch it up.,0,0,0
+The judge pounded the gavel.,The judge banged the gavel.,The courtroom broke into uproar.,Da courtroom went wild.,The jury announced its verdict.,De jury announced dey verdict.,0,1,1
+The woman banished the children from her property.,The woman kicked them kids off her property.,The children hit a ball into her yard.,Da kids knocked a ball into her yard.,The children trampled through her garden.,Dem kids done trampled through her garden.,1,1,1
+The kidnappers released the hostage.,The kidnappers let the hostage go.,They accepted ransom money.,Dey took dat ransom money.,They escaped from jail.,They got outta jail.,0,0,0
+The cook's eyes watered.,Da cook's eyes watered.,He ran out of onions.,He ran outta onions.,He cut an onion.,He chopped up an onion.,1,1,1
+The woman ran her finger under cold water.,The woman ran her finger under cold water.,She burned her finger on the toaster.,She burnt her finger on the toaster.,She put a diamond ring on her finger.,She put a diamond ring on her finger.,0,0,0
+The student misspelled the word.,The student spelled the word wrong.,The teacher corrected her.,Da teacha checked her.,The teacher dismissed her.,The teacher let her go.,0,0,0
+I regained composure from my fit of anger.,I got myself together after bein' mad.,My heart pounded.,My heart was beatin' fast.,I took deep breaths.,I took deep breaths.,1,1,1
+I put my hands under the running faucet.,I put my hands under the running faucet.,The soap rinsed off my hands.,Da soap rinsed off my hands.,The water splashed in my face.,The water splashed in my face.,0,0,1
+The man dressed in his best suit.,The man dressed in his best suit.,He scheduled a meeting with an important client.,He set up a meetin' with a big-time client.,His wife bought him a new tie.,His wife copped him a new tie.,0,0,0
+The man confessed his love for the woman.,Da man confessed his love fo' da woman.,The woman rejected him.,Da woman curved him.,The woman envied him.,Da woman was jealous of him.,0,0,0
+The driver got a flat tire.,Da driver got a flat tire.,He went over the speed limit.,He went over the speed limit.,He ran over a nail.,He ran ova a nail.,1,1,1
+My view of the movie screen was blocked.,I couldn't see the movie screen.,The couple behind me was whispering.,The couple behind me was whisperin'.,A tall person was sitting in front of me.,A tall person was sittin' in front of me.,1,1,1
+The driver turned on the car's headlights.,The driver flipped on the car's headlights.,He heard thunder.,He heard dat thunder.,The sun went down.,The sun went down.,1,1,1
+The girl refused to eat her vegetables.,The girl ain't wanna eat her vegetables.,Her father told her to drink her milk.,Her daddy told her to drink her milk.,Her father took away her dessert.,Her daddy took her dessert away.,1,1,1
+The woman covered her mouth with her hand.,Da woman covered her mouth wit her hand.,She exhaled.,She let out her breath.,She sneezed.,She sneezed.,1,1,1
+The secretary put the caller on hold.,Da secretary put da caller on hold.,The caller's phone lost reception.,The caller's phone lost signal.,The caller waited on the line.,The caller stayed on the line.,1,1,1
+The woman walked with crutches.,The woman walked with crutches.,She shaved her legs.,She shaved her legs.,She broke her leg.,She broke her leg.,1,1,1
+I coughed.,I coughed.,I inhaled smoke.,I breathed in some smoke.,I lowered my voice.,I dropped my voice.,0,0,0
+The clock chimed.,De clock chimed.,It was the top of the hour.,It was the top of the hour.,The hour seemed to drag on.,Da hour felt like it was draggin' on.,0,0,0
+The chef hit the egg on the side of the bowl.,The chef tapped the egg on the side of the bowl.,The egg cracked.,De egg cracked.,The egg rotted.,Da egg went bad.,0,0,0
+The police searched the offender's car.,The police searched the offender's car.,They were trying to elicit a confession.,Dey was tryna get a confession outta dem.,They were looking for illegal drugs.,Dey was lookin' fo' illegal drugs.,1,1,1
+The couple travelled south for the winter.,The couple went down south for the winter.,They were retired.,Dey was retired.,They were separated.,Dey was split up.,0,0,0
+The man felt obligated to attend the event.,Da man felt he had to go to dat event.,He turned down his friend's invitation to go.,He turned down his friend's invite to go.,He promised his friend that he would go.,He promised his homie he'd go.,1,1,1
+The bride got cold feet before the wedding.,The bride got cold feet 'fore the wedding.,The wedding guests brought gifts.,Da weddin' guests brought gifts.,She called the wedding off.,She called off the wedding.,1,1,1
+The man grew old.,The man got old.,His hair turned gray.,His hair turned gray.,He sold his belongings.,He sold his stuff.,0,0,0
+The friends decided to share the hamburger.,The friends decided to split the hamburger.,They cut the hamburger in half.,Dey split da hamburger in half.,They ordered fries with the hamburger.,Dey ordered fries wit da hamburger.,0,0,0
+I twisted the cap off the soda bottle.,I twisted the cap off the soda bottle.,The soda fizzed.,Da soda fizzed.,The soda leaked out.,Da soda leaked out.,0,0,0
+The pair of students came under scrutiny by the teacher.,Dem two students got checked by the teacher.,The students both received excellent grades.,Da students both got excellent grades.,Their responses on the assignment were identical.,Dey responses on da assignment was identical.,1,1,1
+The student was in a rush to get to school on time.,The student was in a rush to get to school on time.,He left his assignment at home.,He left his homework at the crib.,He brought his lunch to school.,He brought his lunch to school.,0,0,0
+The journalist wrote a biography about the humanitarian's life.,Da journalist wrote a biography 'bout da humanitarian's life.,The humanitarian was difficult for the journalist to interview.,Da humanitarian was tough fo' da journalist to interview.,The journalist was intrigued by the humanitarian's work.,The journalist was all into the humanitarian's work.,1,1,1
+The man defied the authorities of the church.,Da man defied da church authorities.,He donated money to the church.,He gave money to the church.,He was excommunicated from the church.,He got kicked out the church.,1,1,1
+The woman's hair fell in her face.,Da woman's hair fell in her face.,She pulled her hair back with a clip.,She pulled her hair back with a clip.,She lathered shampoo into her hair.,She rubbed shampoo in her hair.,0,0,0
+The ring on my finger got stuck.,Da ring on my finger got stuck.,My finger swelled.,My finger swole up.,I chipped my fingernail.,I chipped my fingernail.,0,0,0
+I pulled the rubber band.,I pulled the rubber band.,It flung across the room.,It flung 'cross the room.,It stretched.,It stretched out.,1,1,0
+I pressed my hand into the wet cement.,I pressed my hand into the wet cement.,My handprint dried in the cement.,My handprint dried up in the cement.,Cracks emerged in the cement.,Cracks done showed up in the cement.,0,0,1
+My skin broke out into a rash.,My skin done broke out into a rash.,I brushed against poison ivy in my yard.,I brushed up against some poison ivy in my yard.,I eradicated the poison ivy from my yard.,I got rid of dat poison ivy in my yard.,0,0,0
+My subscription to the magazine expired.,My subscription to the magazine ran out.,I discarded the new issue.,I threw out the new issue.,I stopped receiving new issues.,I ain't gettin' new issues no more.,1,1,1
+The detective revealed an anomaly in the case.,Da detective pointed out somethin' off in da case.,He finalized his theory.,He finished up his theory.,He scrapped his theory.,He scrapped his theory.,1,1,1
+The boy threw a temper tantrum.,The boy threw a fit.,His brother took his toys from him.,His brother took his toys from him.,He shared his toys with his brother.,He shared his toys with his brother.,0,0,0
+The child learned how to read.,De kid learned how to read.,He began attending school.,He started goin' to school.,He skipped a grade in school.,He skipped a grade in school.,0,0,0
+The boy skipped dinner.,The boy skipped dinner.,His mother cooked his favorite meal.,His mama cooked his favorite meal.,He ate a big lunch.,He ate a big lunch.,1,1,1
+The woman lavished her friend with flattery.,The woman gassed up her friend with compliments.,She wanted to ask her friend for a favor.,She wanted to ask her friend for a favor.,She was irritated with her friend's whining.,She was irritated with her friend's whining.,0,0,0
+The key was missing from my pants pocket.,De key was missin' from my pants pocket.,The pocket had a hole.,Da pocket had a hole.,The pants were new.,Them pants was new.,0,0,0
+The man fainted.,Da man passed out.,He took a nap.,He took a nap.,He ran a marathon.,He ran a marathon.,1,1,1
+The man lost the competition.,Da man lost da competition.,The competition was sabotaged.,Da competition got messed up.,He intimidated his competitors.,He scared off his competitors.,0,0,0
+The mother called an ambulance.,The mama called an ambulance.,Her son lost his cat.,Her son lost his cat.,Her son fell out of his bed.,Her son fell out his bed.,1,1,1
+The driver slammed on his brakes.,Da driver slammed on his brakes.,A deer appeared on the road.,A deer popped up on the road.,The car radio shut off.,The car radio cut off.,0,0,0
+The lock opened.,The lock popped open.,I turned the key in the lock.,I turned the key in the lock.,I made a duplicate of the key.,I made a copy of the key.,0,0,0
+I put rubber gloves on.,I put on rubber gloves.,I was preparing to wash my hands.,I was finna wash my hands.,I was preparing to clean the bathroom.,I was finna clean the bathroom.,1,1,1
+The animal species became endangered.,Dat animal species done got endangered.,Their habitat was destroyed.,Dey habitat got destroyed.,Their predators went extinct.,Dey predators went extinct.,0,0,0
+The man perceived that the woman looked different.,Da man noticed dat da woman looked different.,The woman got her hair cut.,The woman got her hair did.,The woman wore a bracelet.,Da woman had on a bracelet.,0,0,0
+The student forgot to do her assignment.,Da student forgot to do her assignment.,She made up an excuse to tell the teacher.,She made up an excuse to tell the teacher.,The teacher promoted her to the next grade.,Da teacher moved her up to da next grade.,0,0,0
+The dog barked.,Da dog barked.,The cat lounged on the couch.,The cat was chillin' on the couch.,A knock sounded at the door.,Somebody knocked at the door.,1,1,1
+Plans were announced to replace a local park with a shopping mall.,They announced plans to swap out the local park for a shopping mall.,Environmentalists started a petition.,Environmentalists started a petition.,Environmentalists produced a documentary.,Environmentalists made a documentary.,0,0,0
+The couple was happy to see each other.,Da couple was happy to see each other.,They kissed.,Dey kissed.,They rested.,They chilled.,0,0,0
+The woman asked the man to leave.,The woman told the man to get out.,He insulted her.,He dissed her.,He thanked her.,He thanked her.,0,0,0
+The tree branch landed in the river.,The tree branch fell in the river.,The branch moved downstream.,Da branch floated downstream.,The river's current became stronger.,The river's current got stronger.,0,0,0
+The teacher assigned homework to the students.,Da teacher gave out homework to da students.,The students passed notes.,Da students passed notes.,The students groaned.,The students was groanin'.,1,1,1
+The seasons changed from summer to autumn.,Da seasons switched up from summer to fall.,People evacuated their homes.,Folks cleared out they homes.,Leaves fell from the trees.,Leaves dropped off the trees.,1,1,1
+The politician was convicted of fraud.,The politician got busted for fraud.,He campaigned for re-election.,He campaigned fo' re-election.,He was removed from office.,He got kicked out the office.,1,1,1
+I pushed the wagon.,I pushed the wagon.,The objects in the wagon fell out.,De stuff in da wagon fell out.,The wagon wheels spun forward.,The wagon wheels spun forward.,1,1,1
+The lobbyist persuaded the legislature to support the bill.,Da lobbyist got da legislature to back da bill.,The president vetoed the bill.,The president vetoed the bill.,The legislature passed the bill.,Da legislature passed da bill.,1,1,1
+My closet was messy.,My closet was messy.,I organized it.,I fixed it up.,I decorated it.,I fixed it up.,0,0,0
+I stayed up late.,I stayed up late.,I had vivid dreams that night.,I had some vivid dreams that night.,I was tired in the morning.,I was tired in the morning.,1,1,1
+The man's pocket jingled as he walked.,De man's pocket was jinglin' as he walked.,His pocket was filled with coins.,His pocket was fulla coins.,He sewed the hole in his pocket.,He stitched up the hole in his pocket.,0,0,0
+Everyone in the class turned to stare at the student.,Errybody in the class turned to look at the student.,The student's phone rang.,Dat student's phone rang.,The student took notes.,The student took notes.,0,0,0
+The horse bucked.,Da horse bucked.,A fly bit the horse.,A fly bit the horse.,The rider stroked the horse.,Da rider petted da horse.,0,0,0
+The jewelry thieves were caught.,Dem jewelry thieves got caught.,The stolen jewelry was returned to its owners.,The stolen jewelry got returned to its owners.,The cost of the stolen jewelry was calculated.,They figured out how much the stolen jewelry cost.,0,0,0
+Political violence broke out in the nation.,Political violence popped off in the nation.,Many citizens relocated to the capitol.,A whole lotta folks moved to the capitol.,Many citizens took refuge in other territories.,Many folks took refuge in other territories.,1,1,1
+The woman was arrested.,Da woman got arrested.,She checked into rehab.,She checked into rehab.,She committed assault.,She threw hands.,1,1,1
+The woman read the newspaper.,Da woman read da newspaper.,She discovered the outcome of the election.,She found out who won the election.,She casted a vote in the election.,She cast a vote in the election.,0,0,0
+The sick child coughed on his friend.,Da sick kid coughed on his friend.,His friend got sick.,His friend got sick.,His friend sneezed.,His friend sneezed.,0,0,0
+The couple got engaged.,Da couple got engaged.,They planned a wedding.,Dey planned a wedding.,They took some time apart.,Dey took some time apart.,0,0,0
+The woman contacted the real estate agent.,The woman hit up the real estate agent.,The woman planned to buy a condo.,The woman planned to cop a condo.,The woman needed to clean her house.,Da woman needed to clean her house.,0,0,0
+The man won the lottery.,Da man won da lottery.,He became rich.,He got rich.,He owed money.,He owed money.,0,0,0
+I lit the candle.,I lit the candle.,Wax dripped off the candle.,Wax dripped off the candle.,The wax on the candle hardened.,The wax on the candle got hard.,0,0,0
+I spent the day at the pool.,I was chillin' at the pool all day.,I sprained my ankle.,I twisted my ankle.,My face got sunburned.,My face got sunburned.,1,1,1
+The man received a parking ticket.,Da man got a parking ticket.,He parallel parked on the street.,He parallel parked on the street.,The parking meter expired.,Da parking meter ran out.,1,1,1
+The woman became famous.,The woman got famous.,Photographers followed her.,Photographers was followin' her.,Her family avoided her.,Her fam dodged her.,0,0,0
+The girl wanted to wear earrings.,The girl wanted to rock some earrings.,She got her ears pierced.,She got her ears pierced.,She got a tattoo.,She got a tat.,0,0,0
+My ears were ringing.,My ears was ringin'.,I went to a museum.,I went to a museum.,I went to a concert.,I went to a concert.,1,1,1
+I tidied up my house.,I cleaned up my house.,I was swamped with work.,I was flooded with work.,I was expecting company.,I was waitin' on some folks.,1,1,1
+The airline mishandled my luggage.,Da airline messed up my luggage.,They offered me compensation.,Dey offered me compensation.,They cancelled my flight.,They cancelled my flight.,0,0,0
+The computer was expensive to fix.,The computer cost a lot to fix.,I got it repaired.,I got it fixed up.,I bought a new one.,I copped a new one.,1,1,1
+The woman was in a bad mood.,The woman was in a bad mood.,She engaged in small talk with her friend.,She was choppin' it up with her friend.,She told her friend to leave her alone.,She told her friend to leave her alone.,1,1,1
+My body cast a shadow over the grass.,My body threw a shadow on the grass.,The sun was rising.,De sun was comin' up.,The grass was cut.,They cut the grass.,0,0,0
+The woman tolerated her friend's difficult behavior.,The woman put up with her friend's difficult behavior.,The woman knew her friend was going through a hard time.,The woman knew her friend was goin' through a tough time.,The woman felt that her friend took advantage of her kindness.,The woman felt like her friend was takin' advantage of her kindness.,0,1,1
+The women met for coffee.,Them women linked up for some coffee.,The cafe reopened in a new location.,Da cafe reopened in a new spot.,They wanted to catch up with each other.,They wanted to catch up with each other.,1,1,1
+The runner wore shorts.,The runner had on shorts.,The forecast predicted high temperatures.,De forecast say it's gon' be hot.,She planned to run along the beach.,She planned to run along the beach.,0,1,1
+The guests of the party hid behind the couch.,The folks at the party was hidin' behind the couch.,It was a surprise party.,It was a surprise party.,It was a birthday party.,It was a birthday party.,0,0,0
+The politician lost the election.,Da politician lost da election.,He ran negative campaign ads.,He ran negative campaign ads.,No one voted for him.,Ain't nobody vote for him.,1,0,1
+The stain came out of the shirt.,Da stain came out da shirt.,I patched the shirt.,I fixed up the shirt.,I bleached the shirt.,I bleached the shirt.,1,1,1
+The man got a discount on his groceries.,Da man got a discount on his groceries.,He greeted the cashier.,He said what's up to the cashier.,He used a coupon.,He used a coupon.,1,1,1
+The physician misdiagnosed the patient.,The doctor got it wrong with the patient.,The patient filed a malpractice lawsuit against the physician.,The patient filed a malpractice lawsuit against the doctor.,The patient disclosed confidential information to the physician.,The patient told the doctor some private stuff.,0,0,0
+The customer filed a complaint with the store manager.,The customer filed a complaint with the store manager.,The sales associate undercharged the customer.,The sales associate undercharged the customer.,The sales associate acted rude to the customer.,The sales associate was actin' rude to the customer.,1,1,1
+The woman repaired her faucet.,The woman fixed her faucet.,The faucet was leaky.,Da faucet was leakin'.,The faucet was turned off.,Dey turned off da faucet.,0,0,0
+The elderly woman suffered a stroke.,Da old lady had a stroke.,The woman's daughter came over to clean her house.,The woman's daughter came over to clean her house.,The woman's daughter moved in to take care of her.,Da woman's daughter moved in to look after her.,1,1,1
+The pond froze over for the winter.,Da pond froze over fo' da winter.,People skated on the pond.,Folks was skatin' on the pond.,People brought boats to the pond.,Folks brought boats to the pond.,0,0,0
+The offender violated parole.,The offender broke parole.,She was sent back to jail.,She got sent back to jail.,She stole money from a church.,She stole money from a church.,0,0,0
+I poured water on my sleeping friend.,I poured water on my sleepin' friend.,My friend awoke.,My friend woke up.,My friend snored.,My friend was snorin'.,0,0,0
+The girl gasped.,The girl caught her breath.,Her friend stuck an ice cube down her back.,Her friend slipped an ice cube down her back.,Her friend gave her a pat on the back.,Her friend gave her a pat on the back.,0,0,0
+The shirt shrunk.,Da shirt shrunk.,I poured bleach on it.,I poured some bleach on it.,I put it in the dryer.,I put it in the dryer.,1,1,1
+It got dark outside.,It got dark outside.,Snowflakes began to fall from the sky.,Snowflakes started fallin' from the sky.,The moon became visible in the sky.,The moon showed up in the sky.,1,1,1
+I hung up the phone.,I hung up da phone.,The caller said goodbye to me.,Da caller said bye to me.,The caller identified himself to me.,The caller told me who he was.,0,0,0
+The woman's ring slipped off in the shower.,Dat woman's ring slipped off in the shower.,The woman polished the ring.,The woman polished the ring.,The ring went down the drain.,The ring went down the drain.,1,1,1
+The girl received a trophy.,The girl got a trophy.,She won a spelling bee.,She won a spelling bee.,She made a new friend.,She made a new homie.,0,0,0
+The woman's date wanted to look like a gentleman.,Her date was tryna look like a gentleman.,He opened the door for her.,He opened the door for her.,He asked her if she liked sushi.,He axed her if she liked sushi.,0,0,0
+The farmland needed irrigation.,Da farmland needed irrigation.,A canal was constructed.,They built a canal.,A flood occurred.,It flooded.,0,0,0
+The host cancelled the party.,The host called off the party.,She was certain she had the flu.,She sho she had the flu.,She worried she would catch the flu.,She worried she gon' catch the flu.,0,0,0
+The woman gave the man her phone number.,The woman gave the man her digits.,She was attracted to him.,She was feelin' him.,She was repulsed by him.,She was grossed out by him.,0,0,0
+The skydiver glided safely to the ground.,The skydiver floated on down to the ground safe.,She opened her parachute.,She opened her parachute.,She jumped out of the plane.,She jumped out the plane.,0,0,0
+The toddler became cranky.,Dat toddler got cranky.,Her mother put her down for a nap.,Her mama laid her down for a nap.,Her mother fixed her hair into pigtails.,Her mama did her hair up in pigtails.,0,0,0
+The child became immune to the disease.,The child got immune to the disease.,He avoided exposure to the disease.,He stayed away from catchin' that disease.,He received the vaccine for the disease.,He got the vaccine for the disease.,1,1,1
+The grape juice fermented.,Da grape juice done fermented.,The juice turned to wine.,Da juice turned to wine.,The juice evaporated.,Da juice done evaporated.,0,0,0
+The friends' debate dragged on interminably.,Dem friends' debate just kept goin' on and on.,The friends saw eye to eye.,The friends was on the same page.,The friends were splitting hairs.,Dem friends was nitpickin'.,1,1,1
+The woman hummed to herself.,The woman was humming to herself.,She was nervous.,She was nervous.,She was in a good mood.,She was feelin' good.,1,1,1
+The man hated his new haircut.,Dat man hated his new haircut.,He wore a hat.,He had a hat on.,He grew a beard.,He grew out his beard.,0,0,0
+The police aimed their weapons at the fugitive.,The police pointed they guns at the fugitive.,The fugitive fell to the ground.,The fugitive hit the ground.,The fugitive dropped his gun.,The fugitive dropped his gun.,1,1,1
+The patient was dehydrated.,The patient was dehydrated.,The nurse tested his reflexes.,The nurse checked his reflexes.,The nurse gave him an IV.,The nurse gave him an IV.,1,1,1
+The girl found the missing puzzle piece.,The girl found the missin' puzzle piece.,She completed the puzzle.,She finished the puzzle.,She took apart the puzzle.,She took apart the puzzle.,0,0,0
+The man urgently leaped out of bed.,The man hurried up and jumped outta bed.,He wanted to shut off the alarm clock.,He wanted to turn off the alarm clock.,He wanted to iron his pants before work.,He wanted to press his pants 'fore work.,0,0,1
+The papers were disorganized.,Dem papers was all over the place.,I made photocopies of them.,I made copies of 'em.,I put them into alphabetical order.,I put 'em in alphabetical order.,1,1,1
+The woman won the lottery.,The woman hit the jackpot.,She bought a yacht.,She bought a yacht.,She joined a church.,She joined a church.,0,0,0
+The seamstress pushed the threaded needle into the fabric.,The seamstress pushed the threaded needle into the fabric.,The thread wrapped around the needle.,The thread wrapped 'round the needle.,The thread went through the fabric.,The thread went through the fabric.,1,1,1
+The woman hired a lawyer.,The woman got herself a lawyer.,She decided to sue her employer.,She decided to sue her boss.,She decided to run for office.,She decided to run for office.,0,0,0
+The tenant misplaced his keys to his apartment.,The tenant lost his keys to his apartment.,His landlord unlocked the door.,His landlord unlocked the door.,His landlord repaired the door.,His landlord fixed the door.,0,0,0
+My favorite song came on the radio.,My favorite song done came on the radio.,I covered my ears.,I covered my ears.,I sang along to it.,I sang along to it.,1,1,1
+The executive decided not to hire the applicant.,The executive decided not to hire the applicant.,The applicant failed a background check.,The applicant ain't pass the background check.,The applicant had experience for the job.,The applicant had 'sperience for the job.,0,0,0
+The man's eye became infected.,Da man's eye got infected.,He went blind.,He went blind.,He put on glasses.,He put on some glasses.,0,0,0
+The bird couldn't fly.,Dat bird couldn't fly.,It migrated for the winter.,It migrated for the winter.,It injured its wing.,It hurt its wing.,1,1,1
+The girl made a wish.,The girl made a wish.,She saw a black cat.,She seen a black cat.,She saw a shooting star.,She seen a shootin' star.,1,1,1
+The woman shivered as she got out the pool.,The woman shivered as she got out the pool.,She wrapped herself in a towel.,She wrapped herself up in a towel.,She poured herself some lemonade.,She poured herself some lemonade.,0,0,0
+The nurse prepared the needle for the patient's injection.,The nurse got the needle ready for the patient's shot.,The patient bled.,The patient was bleedin'.,The patient tensed up.,The patient got tense.,1,1,1
+The man threw out the bread.,The man threw out the bread.,It was fresh.,It was fresh.,It was stale.,It was stale.,1,1,1
+The children knocked over a lamp.,Them kids knocked over a lamp.,They had a pillow fight.,They had a pillow fight.,They jumped on the bed.,They jumped on the bed.,0,1,1
+I drank from the water fountain.,I sipped from the water fountain.,I was thirsty.,I was thirsty.,I felt nauseous.,I was feelin' sick.,0,0,0
+The homeowners disliked their nosy neighbors.,The homeowners ain't like they nosy neighbors.,They built a fence around their property.,They put up a fence 'round they property.,They hosted a barbeque in their backyard.,They threw a BBQ in they backyard.,0,0,0
+The bodybuilder lifted weights.,The bodybuilder was liftin' weights.,The gym closed.,Da gym closed.,Her muscles became fatigued.,Her muscles got tired.,1,1,1
+The cook stirred the ingredients in the bowl.,The cook mixed up the stuff in the bowl.,The ingredients melted.,Da ingredients melted.,The ingredients blended together.,The ingredients mixed together.,1,1,1
+The man signed the document.,The man signed the document.,The transaction was voided.,They voided the transaction.,The transaction became official.,De transaction went through fo' real.,1,1,0
+The police officer dropped the gun.,The police officer dropped the gun.,The gun recoiled.,Da gun kicked back.,The gun went off.,The gun went off.,1,1,1
+The woman felt compelled to help someone in need.,Da woman felt like she had to help somebody in need.,She donated blood.,She gave blood.,She wrote a poem.,She wrote a poem.,0,0,0
+The woman felt lonely.,Dat woman was feelin' lonely.,She renovated her kitchen.,She fixed up her kitchen.,She adopted a cat.,She 'dopted a cat.,1,1,1
+I rubbed sandpaper on the wood.,I rubbed sandpaper on the wood.,The wood became smooth.,Da wood got smooth.,The wood became sticky.,Da wood got sticky.,0,0,0
+The crowd gave the band a standing ovation.,The crowd gave the band a standin' ovation.,The band signed autographs.,The band signed they autographs.,The band reappeared on the stage.,The band came back on the stage.,1,1,1
+The man threw his empty can onto the street.,The man threw his empty can out on the street.,He was jumped from behind.,They jumped him from behind.,He was fined for littering.,He got fined for litterin'.,1,1,1
+My stomach growled.,My stomach was growlin'.,I forgot to eat breakfast.,I forgot to eat breakfast.,I was full from breakfast.,I was full from breakfast.,0,0,0
+The boaters set off a flare.,Them boaters shot off a flare.,Their boat drifted to shore.,Dey boat drifted to shore.,Their boat was rescued.,Dey boat got rescued.,1,1,1
+The man removed his coat.,The man took off his coat.,He entered the house.,He went up in the house.,He loosened his tie.,He loosened up his tie.,0,1,1
+The family took their dog to the veterinarian.,The family took they dog to the vet.,The dog chewed on a bone.,Da dog chewed on a bone.,The dog injured his paw.,The dog hurt his paw.,1,1,1
+The woman dangled the biscuit above the dog.,The woman held the biscuit up over the dog.,The dog jumped up.,The dog jumped up.,The dog scratched its fur.,The dog scratched its fur.,0,0,0
+I learned how to play the board game.,I learned how to play the board game.,My friend explained the rules to me.,My friend broke down the rules for me.,My friend got the rules wrong.,My friend got the rules messed up.,0,0,0
+The man went away for the weekend.,The man dipped out for the weekend.,He wanted to relax.,He wanted to chill.,He felt content.,He felt good.,0,0,0
+The shop was closed.,De shop was closed.,The owner was helping customers.,The owner was helpin' customers.,The shop was undergoing renovation.,The shop was gettin' fixed up.,1,1,1
+The boy tuned the radio.,The boy tuned the radio.,The station was playing rock music.,Da station was playin' rock music.,The station was coming in with static.,The station was comin' in all staticky.,1,1,1
+The terrorist set off the bomb.,The terrorist blew up the bomb.,The bomb exploded.,Da bomb went off.,The bomb was deactivated.,Dey turned off da bomb.,0,Prediction failed,Prediction failed
+The police handcuffed the suspect.,The police cuffed up the suspect.,The police called for backup.,The police called for backup.,The suspect resisted arrest.,The suspect fought back 'gainst gettin' arrested.,1,1,1
+The authorities vowed to protect the identity of the crime victim.,The authorities promised to keep the crime victim's identity safe.,The victim struggled to recall details about the crime.,Da victim had trouble 'memberin' details 'bout da crime.,They withheld the victim's name from the public.,They ain't tell nobody the victim's name.,1,1,1
+The man's clothes fit loosely.,Da man's clothes fit loose.,He bought them on sale.,He copped them on sale.,He lost weight.,He lost some pounds.,1,1,1
+The clock stopped ticking.,The clock stopped ticking.,I took extra time to get ready.,I took extra time to fix up.,The clock showed the wrong time.,The clock was showin' the wrong time.,1,1,1
+The man closed the umbrella.,The man closed the umbrella.,He got out of the car.,He got out the car.,He approached the building.,He walked up to the building.,1,1,1
+The man craved a cigarette.,The man was fiendin' for a cigarette.,His family urged him to quit smoking.,His folks was pressin' him to quit smokin'.,He was addicted to nicotine.,He was hooked on nicotine.,1,1,1
+The man dropped food on the floor.,Da man dropped food on da floor.,His dog jumped up on him.,His dog jumped up on him.,His dog ran over to eat the food.,His dog ran over to eat the food.,1,1,1
+The girl was angry with her friend.,The girl was mad at her friend.,The girl spread a rumor about her friend.,The girl spread a rumor 'bout her friend.,The girl told a secret to her friend.,The girl told her friend a secret.,0,0,0
+The fugitive hid from the police.,The fugitive was hidin' from the police.,The police dropped the case.,The police dropped the case.,The fugitive remained at large.,The fugitive still on the run.,1,1,1
+I tipped the bottle.,I tipped the bottle.,The liquid in the bottle froze.,Da liquid in da bottle froze.,The liquid in the bottle poured out.,Da liquid in da bottle poured out.,1,1,1
+The woman spoke with a foreign accent.,The woman was talkin' with a foreign accent.,She came from a wealthy family.,She come from a rich family.,She migrated from another country.,She moved here from another country.,1,1,1
+The boy's mouth stung.,Dat boy mouth was stingin'.,He ate a pepper.,He ate a pepper.,He blew out the candle.,He blew out the candle.,0,0,0
+I finished a page of the book.,I finished a page of the book.,I ripped out the next page.,I tore out the next page.,I turned to the next page.,I flipped to the next page.,1,1,1
+The service at the restaurant was slow.,Da service at da restaurant was slow.,There were many empty tables.,It was a lot of empty tables.,The restaurant was crowded.,Da restaurant was packed.,1,1,1
+I saw a woman getting robbed on the street.,I seen a woman gettin' robbed on the street.,I called 911.,I called 911.,I hailed a cab.,I called a cab.,0,0,0
+My stomach hurt.,My stomach hurtin'.,I jogged on the treadmill.,I ran on the treadmill.,I ate birthday cake.,I ate birthday cake.,1,1,1
+I put my plate in the sink.,I put my plate in the sink.,I finished eating.,I done ate.,I skipped dinner.,I skipped dinner.,0,0,0
+The man closed the book.,The man closed the book.,He finished reading it.,He done read it.,It provoked him to think.,It made him think.,0,0,1
+The boy read the novel aloud to his grandfather.,The boy read the novel out loud to his granddaddy.,His grandfather was deaf.,His granddaddy was deaf.,His grandfather was blind.,His granddaddy was blind.,1,1,1
+My foot went numb.,My foot done went numb.,I put my shoes on.,I put my shoes on.,I shook my foot.,I shook my foot.,1,1,1
+The photographer got the child to smile.,The photographer got the kid to smile.,The photographer quickly snapped the child's photo.,De photographer snapped da child's photo real quick.,The photographer quickly changed the child's pose.,The photographer switched up the kid's pose real quick.,0,0,0
+The window was opaque.,The window was foggy.,The glass was stained.,De glass was stained.,The blinds were open.,The blinds was open.,0,0,0
+I slipped on the floor.,I slipped on da floor.,The tile was wet.,Da tile was wet.,The tile was cracked.,Da tile was cracked.,0,0,0
+The man slid the razor across his chin.,The man slid the razor 'cross his chin.,His stubble grew.,His stubble done grew.,His stubble disappeared.,His stubble gone.,1,1,1
+The woman took her family on vacation.,The woman took her family on vacation.,Her husband got laid off.,Her husband got fired.,She received a salary bonus.,She got a salary bonus.,1,1,1
+The woman awakened.,The woman woke up.,She took sleeping pills.,She took some sleeping pills.,Her husband was snoring.,Her husband was sawin' logs.,1,1,1
+The woman sensed a pleasant smell.,The woman smelled somethin' nice.,She remembered to take her medication.,She 'membered to take her meds.,She was reminded of her childhood.,She was reminded of her come-up.,1,1,1
+The bar closed.,The bar done closed.,It was crowded.,It was packed.,It was 3 AM.,It was 3 in the mornin'.,1,1,1
+The driver got pulled over by the police.,The driver got pulled over by the cops.,He was parking.,He was parkin'.,He was speeding.,He was drivin' fast.,1,1,1
+The teacher took roll.,The teacher called roll.,She identified the students that were absent.,She pointed out the students that weren't there.,She gave her students a pop quiz.,She gave her students a pop quiz.,0,0,0
+I pushed the pendulum.,I pushed da pendulum.,It slowed to a stop.,It slowed down to a stop.,It swung back and forth.,It was swingin' back and forth.,1,1,1
+The child kicked the stack of blocks.,The kid kicked the stack of blocks.,The stack towered over the boy's head.,The stack was way taller than the boy's head.,The blocks scattered all over the rug.,The blocks all over the rug.,1,1,1
+The teenager ran away from home.,The teenager ran away from home.,He relied on his parents.,He depended on his folks.,His parents abused him.,His folks did him wrong.,1,1,1
+I botched the job interview.,I messed up the job interview.,The interviewer asked difficult questions.,The interviewer was askin' some tough questions.,I anticipated the interviewer's questions.,I was ready fo' what the interviewer was finna ask.,0,0,0
+The pharmaceutical company recalled the drug.,De pharmaceutical company pulled back dat drug.,Users reported dangerous side effects.,Folks been sayin' they got some dangerous side effects.,Users got refills on their prescriptions.,Folks got they prescriptions refilled.,0,0,0
+The man looked at his watch.,The man checked his watch.,He realized he forgot something.,He realized he forgot somethin'.,He realized he was early.,He realized he was early.,1,1,1
+I dabbed the floor with a paper towel.,I dabbed the floor wit' a paper towel.,I spilled juice on the floor.,I spilled juice on the floor.,The floor was permanently stained.,Da floor got stains fo' good.,0,0,0
+The bartender refused to serve the patron.,The bartender ain't serve the patron.,The patron was alone.,The patron was by theyself.,The patron was drunk.,The patron was lit.,1,1,"1 
+
+The second choice, ""The patron was lit"" (meaning intoxicated), is a more likely reason why a bartender would refuse service."
+I was confused by the professor's lecture.,I was confused by the professor's lecture.,I paid attention to the professor.,I listened to the professor.,I asked the professor questions.,I axed the professor questions.,1,1,1
+The book was deemed inappropriate for children.,Dey said dat book ain't right for kids.,Schools banned it from its libraries.,Schools banned it from they libraries.,Teachers required students to read it.,Teachers made students read it.,0,0,0
+The man begged for forgiveness.,Da man begged fo' forgiveness.,The woman took pity on him.,The woman felt bad for him.,The woman joked around with him.,The woman was playin' wit him.,0,0,1
+I received a package in the mail.,I got a package in the mail.,The package triggered my curiosity.,Dat package piqued my curiosity.,I took the package to the post office.,I took the package to the post office.,0,0,0
+The surfer caught the wave.,The surfer caught the wave.,The wave carried her to the shore.,The wave brought her to the shore.,She paddled her board into the ocean.,She paddled her board into the ocean.,0,0,0
+The speaker disarmed her debate opponent.,Da speaker disarmed her debate opponent.,The speaker congratulated her opponent.,The speaker bigged up her opponent.,The speaker won the debate.,The speaker won dat debate.,1,1,1
+I moved to a new city.,I moved to a new city. translates to AAVE as: I moved to a new city.,I found a better-paying job.,I found a job that pay better.,My son was born.,My son was born. in AAVE can be translated as: My son got born.,0,0,1
+I avoided giving a straight answer to the question.,I dodged givin' a straight answer to the question.,The question made me uncomfortable.,Dat question made me uncomfortable.,I wanted to be honest.,I wanted to keep it real.,0,0,0
+The student received detention.,The student got detention.,He talked back to the teacher.,He sassed the teacher.,The teacher graded his homework.,The teacher graded his homework.,0,0,0
+The boy's hands were shaking.,Dat boy hands was shakin'.,He planned to ask the girl out.,He finna ask that girl out.,His palms were cold and sweaty.,His palms was cold and sweaty.,0,1,0
+The fans in the stadium cheered.,The fans in the stadium was cheerin'.,The game ended in a tie.,The game ended in a tie.,The player scored.,The player scored.,1,1,1
+The girl went down the hill on her bike.,The girl went down the hill on her bike.,Her bike swerved.,Her bike swerved.,Her bike sped up.,Her bike sped up.,1,1,1
+A man cut in front of me in the long line.,A dude skipped me in the long line.,I confronted him.,I checked him.,I smiled at him.,I smiled at him.,0,0,0
+The inside of the train went dark.,Da inside of da train went dark.,The train travelled through a tunnel.,The train went through a tunnel.,The train ran off the tracks.,The train ran off the tracks.,0,0,0
+The man contemplated the painting.,The man was checkin' out the painting.,He felt in awe.,He was feelin' all amazed.,He collapsed.,He fell out.,0,0,0
+The turtle hid in its shell.,The turtle hid in its shell.,It ate a fish.,It ate a fish.,It detected a predator.,It spotted a predator.,1,1,1
+The girl handed down her clothes to her younger sister.,The girl passed down her clothes to her lil' sister.,The clothes were tattered.,Dem clothes was tattered.,She outgrew the clothes.,She done outgrown them clothes.,1,1,1
+Several witnesses of the crime testified against the suspect.,Several folks who saw the crime spoke out against the suspect.,The suspect was acquitted.,Dey let the suspect off.,The suspect was convicted.,Dey convicted da suspect.,1,1,1
+The parents left their children with a babysitter.,The parents left they kids with a babysitter.,Their youngest child started attending preschool.,Dey youngest kid started goin' to preschool.,They made plans to celebrate their anniversary.,They made plans to celebrate they anniversary.,1,1,1
+The trip took a long time.,Dat trip took a minute., The driver talked the whole way.,The driver was talkin' the whole way.,The driver made a wrong turn.,The driver took a wrong turn.,1,1,0
+The product was heavily advertised.,Dey was pushin' dat product hard.,Consumers recognized the product.,Folks peeped the product.,The product became outdated.,Da product got old.,0,0,1
+I rubbed the soap between my hands.,I rubbed the soap 'tween my hands.,The soap foamed.,Da soap foamed up.,My hands went numb.,My hands done went numb.,0,0,0
+The cowgirl threw her lasso towards the horse.,The cowgirl tossed her lasso at the horse.,The lasso grabbed onto the horse.,The lasso caught up wit' the horse.,The horse trotted into the barn.,The horse trotted into the barn.,0,0,0
+The group overlooked the woman's faux pas.,The group ain't pay no mind to the woman's faux pas.,The woman was relieved.,The woman was relieved.,The woman apologized.,The woman said sorry.,0,0,0
+The girl came across an unfamiliar word in her textbook.,The girl ran into a word she ain't know in her textbook.,She looked the term up in the dictionary.,She looked up the term in the dictionary.,She chucked the textbook across the room.,She threw dat textbook 'cross the room.,0,0,0
+The man became disabled.,The man got disabled.,His family offered him financial support.,His fam hooked him up with some money.,His family cut off contact with him.,His family cut him off.,0,0,0
+The flashlight was dead.,The flashlight was out.,I took it apart.,I took it apart.,I replaced the batteries.,I switched out the batteries.,1,1,1
+The skunk sprayed the dog.,The skunk sprayed the dog.,The dog emitted a foul smell.,Dat dog was smellin' foul.,The skunk roamed the woods.,Da skunk was roamin' 'round da woods.,0,0,0
+I scratched my skin.,I scratched my skin.,My itch went away.,My itch gone.,My scar faded.,My scar done faded.,0,0,0
+I wrote a thank-you note to my grandmother.,I wrote my grandma a thank-you note.,She became forgetful.,She start forgettin' stuff.,She sent me a gift.,She sent me a gift.,1,1,1
+A burglar broke into the house.,Somebody broke into the house.,The homeowners were asleep.,Them folks was sleepin'.,The security alarm went off.,Da security alarm went off.,1,1,1
+I held the door for the woman entering behind me.,I held the door open for the lady comin' in behind me.,The door slammed shut.,Da door slammed shut.,The woman thanked me.,Da woman thanked me.,1,1,1
+The mirror in the bathroom fogged up.,The mirror in the bathroom fogged up.,The girl turned on the fan.,The girl turned on the fan.,The girl applied her makeup.,The girl put on her makeup.,0,0,0
+The security guard tackled the man.,The security guard tackled the dude.,The man reached into his pocket.,Da man reached into his pocket.,The man displayed a weapon.,The man showed a weapon.,1,1,1
+The driver rotated the steering wheel.,The driver turned the steering wheel.,The car halted.,The car stopped.,The car turned.,De car turned.,1,1,1
+The army surrendered the battle.,The army gave up the fight.,They were outnumbered.,Dey was outnumbered.,They stormed the city.,They ran up on the city.,0,0,0
+The navy bombed the ship.,Da navy bombed da ship.,The ship crashed into the pier.,Da ship smashed into da pier.,The ship's debris sunk in the sea.,Da ship's debris sunk in da sea.,1,1,1
+I ironed my shirt.,I pressed my shirt.,It was clean.,It was clean.,It was wrinkled.,It was wrinkled.,1,1,1
+The girl felt dizzy.,The girl felt dizzy.,She lost her balance.,She lost her footing.,She did stretches.,She was stretchin'.,0,0,0
+The driver pulled over to the side of the road.,The driver pulled over to the side of the road.,He went through an intersection.,He went through a crossroad.,He noticed a stranded vehicle.,He peeped a broke down car.,1,1,1
+The hospital sent the patient home.,The hospital sent the patient home.,The patient's symptoms cleared up.,Da patient's symptoms cleared up.,The patient's family visited him.,Da patient's fam came to see him.,0,0,0
+The child caught a life-threatening illness.,The kid caught a life-threatening sickness.,She didn't get vaccinated.,She ain't get vaccinated.,She was adopted.,She got adopted.,0,0,0
+We found empty seats in the theatre.,We found some empty seats in the theater.,The film began.,Da movie started.,We sat down.,We sat down.,1,1,1
+The parents recognized their daughter's creativity.,The parents peeped their daughter's creativity.,They taught her how to ride a bike.,They taught her how to ride a bike.,They encouraged her to become an artist.,They gassed her up to be an artist.,1,1,1
+The boy turned the lid on the jar.,The boy twisted the lid on the jar.,The jar became warm.,Da jar got warm.,The lid came off.,The lid done came off.,1,1,1
+The woman received a diploma.,The woman got her diploma.,She enrolled in college.,She signed up for college.,She graduated from college.,She graduated from college.,1,1,1
+I chugged the pitcher of water.,I guzzled down dat pitcher of water.,I walked upstairs.,I walked upstairs.,I ran five miles.,I ran five miles.,1,0,1
+I came upon a puddle on the sidewalk.,I ran up on a puddle on the sidewalk.,I leapt over the puddle.,I jumped over the puddle.,I played in the puddle.,I played in the puddle. translates to I was playin' in the puddle. in AAVE.,0,0,1
+The woman covered her ears.,The woman covered her ears.,The fire alarm blared.,The fire alarm was goin' off.,The woman smelled smoke.,The woman smelled smoke in AAVE can be translated as: The woman smelled smoke.,0,0,0
+The archeologist dug up the site.,The archeologist dug up the site.,She excavated ancient artifacts.,She dug up dem old artifacts.,She read about the site's history.,She read up on the site's history.,0,0,0
+The audience booed the comedian off the stage.,The audience booed the comedian off the stage.,He told a racist joke.,He told a racist joke.,He entertained the audience.,He had the audience turnt up.,0,0,0
+The coach gave his player a high five.,Da coach gave his player a high five.,The player got a penalty.,Da player caught a penalty.,The player scored a point.,Da player scored a point.,1,1,1
+I tossed the ball upwards.,I threw the ball up.,The ball rolled across the ground.,The ball rolled 'cross the ground.,The ball hit the ceiling.,De ball hit de ceiling.,1,1,1
+My breath smelled of garlic.,My breath was smellin' like garlic.,I wiped my mouth.,I wiped my mouth.,I brushed my teeth.,I brushed my teeth.,1,1,1
+The man was lost.,The man was lost.,He asked for directions.,He axed fo' directions.,He drew a map.,He drew up a map.,0,0,0
+The baby pulled the mother's hair.,The baby pulled the mama's hair.,The baby burped.,Da baby burped.,The mother grimaced.,The mama frowned up.,1,1,1
+I stood on one foot.,I was standin' on one foot.,My balance wavered.,I was kinda unsteady.,I kneeled down.,I got down on my knees.,0,0,0
+I pushed the gas pedal.,I stepped on the gas.,The car accelerated.,The car sped up.,The car door opened.,Da car door opened.,0,0,0
+My car was towed.,They towed my car.,I parked illegally.,I parked where I wasn't s'posed to.,I jumped the battery.,I jumped the battery.,0,0,0
+The woman got away with the crime.,The woman got away wit the crime.,Her accomplice was apprehended.,They caught her partner.,She destroyed the evidence.,She got rid of the evidence.,1,1,1
+The dust came off the desk.,Dust came off dat desk.,I wiped the desk with a cloth.,I wiped down the desk with a rag.,I removed the books from the desk.,I took the books off the desk.,0,0,1
+The motorcyclist twisted the throttle.,The motorcyclist twisted the throttle.,The motorcycle coasted to a halt.,The motorcycle rolled to a stop.,The motorcycle shot forward.,The motorcycle sped off.,1,1,1
+The teacher caught the student chewing gum.,The teacher caught the student chewin' gum.,The gum stuck to the student's shoe.,De gum stuck to da student's shoe.,The student spit out the gum.,The student spit out the gum.,1,1,1
+The host served dinner to his guests.,The host served dinner to his guests.,His guests were gracious.,His guests was mad nice.,His guests went hungry.,His guests went hungry.,0,0,1
+The boy climbed the tree.,Da boy climbed up da tree.,A cat got stuck in the tree.,A cat got stuck up in the tree.,A bird built a nest in the tree.,A bird built a nest in the tree.,0,0,0
+The chair squeaked.,Dat chair squeaked.,The man carried the chair to his office.,The man carried the chair to his office.,The man scooted the chair closer to his desk.,Da man scooted da chair closer to his desk.,1,1,1
+The father shut off the children's television.,The daddy turned off the kids' TV.,It was bedtime for the children.,It was bedtime for them kids.,The children were watching cartoons.,The kids was watchin' cartoons.,0,0,1
+The man held his breath.,The man held his breath.,He went underwater.,He went undawata.,He treaded water.,He was treadin' water.,0,0,1
+I clumsily bumped into the stranger.,I bumped into that stranger all clumsy-like.,I ran away.,I ran off.,I apologized to him.,I said sorry to him.,1,1,1
+The boat capsized.,The boat flipped over.,The captain raised the sail.,Da captain raised da sail.,It was caught in a hurricane.,It got caught up in a hurricane.,1,1,1
+The mother suspected that her son was lying.,The mama thought her son was lyin'.,He refused to talk to her.,He ain't wanna talk to her.,He avoided making eye contact with her.,He ain't look her in the eye.,1,1,1
+The young woman was denied entrance into the bar.,They ain't let the young woman into the bar.,Her friends stood her up.,Her friends ain't show up.,She forgot her ID.,She forgot her ID.,1,1,1
+A crater formed on the moon.,A crater popped up on the moon.,A comet passed by the moon.,A comet passed by da moon.,A comet collided with the moon.,A comet smashed into the moon.,1,1,1
+I planted the seeds in the soil.,I planted dem seeds in da soil.,I watered the soil.,I watered the dirt.,The seeds sprouted.,The seeds done sprouted.,1,1,1
+The benefactor requested to stay anonymous.,The benefactor axed to stay anonymous.,He wanted to maintain his privacy.,He wanted to keep his business to himself.,He supported the cause behind his donation.,He backed the cause behind his donation.,0,0,0
+The woman felt ashamed of scar on her face.,The woman felt ashamed of the scar on her face.,She explained the scar to strangers.,She told folks 'bout her scar.,She hid the scar with makeup.,She covered up that scar with some makeup.,1,1,1
+The doctor x-rayed the patient's arm.,The doctor x-rayed the patient's arm.,He discovered that the patient's arm was broken.,He found out the patient's arm was broke.,He put the patient's arm in a cast.,He put the patient's arm in a cast.,0,0,0
+The boy filled the bucket with sand.,The boy filled the bucket with sand.,He was collecting seashells in the sand.,He was collectin' seashells in the sand.,He was building a sand castle.,He was buildin' a sand castle.,1,1,1
+The woman upgraded her computer hardware.,The woman upgraded her computer hardware.,She deleted old files on the computer.,She deleted old files on the computer.,She installed new software on the computer.,She put some new software on the computer.,1,1,1
+The girl performed in a dance recital.,Da girl danced in a recital.,Her parents showed her how to dance.,Her folks taught her how to dance.,Her parents came to watch the recital.,Her folks came to watch the recital.,1,1,1
+The baby was wailing in his crib.,The baby was hollering in his crib.,The mother picked up the baby.,The mama picked up the baby.,The baby crawled to the mother.,The baby crawled to they mama.,0,0,0
+The woman had a religious awakening.,The woman had a spiritual awakening.,She began going to church.,She started goin' to church.,She began travelling abroad.,She started travelin' overseas.,0,0,1
+The bureau drawers were cluttered.,Dem bureau drawers was all cluttered up.,I threw away unnecessary contents.,I threw out unnecessary stuff.,I locked the drawers shut.,I locked dem drawers up.,0,0,0
+The student flaunted his test grade to his classmates.,The student was showin' off his test grade to his classmates.,He received a perfect score.,He got a perfect score.,He feigned interest in the class.,He fronted like he was into the class.,0,0,0
+The boy felt homesick.,Dat boy was feelin' homesick.,He went away to camp.,He went off to camp.,He bickered with his sister.,He was fussin' with his sister.,0,0,0
+The rocket flew up into the sky.,The rocket shot up into the sky.,The girl launched it.,The girl threw it.,The girl designed it.,The girl designed it.,0,0,1
+The boy murmured his reply to his mother.,The boy murmured his reply to his momma.,His mother told him to whisper.,His mama told him to whisper.,His mother told him to speak up.,His mama told him to speak up.,1,1,1
+My flight got delayed.,My flight got pushed back.,Tornadoes were sighted in the area.,They seen some tornadoes 'round here.,I was held up at airport security.,I got held up at airport security.,0,0,0
+The smoke alarm went off.,The smoke alarm went off.,I lit a candle.,I lit a candle.,I burnt my dinner.,I burnt my dinner.,1,1,1
+The vase broke.,Da vase broke.,I stenciled it.,I stenciled it.,I glued it back together.,I glued it back together.,1,1,1
+The woman felt an electric shock.,Da woman felt a electric shock.,She grabbed the doorknob.,She grabbed the doorknob.,She pounded on the door.,She was bangin' on the door.,0,0,0
+The man had lipstick on his cheek.,Da man had lipstick on his cheek.,The woman kissed him.,Da woman kissed him.,The woman made him blush.,Dat woman made him blush.,0,0,0
+I jumped instinctively in fright.,I jumped on instinct cuz I was scared.,I sensed someone approaching me from behind.,I felt somebody comin' up on me from behind.,I heard people chuckling in the adjacent room.,I heard folks laughin' in the next room.,0,0,0
+The gardener wanted his plants to flourish.,The gardener wanted his plants to thrive.,He planted a variety of seeds.,He planted all kinds of seeds.,He put fertilizer in the soil.,He put fertilizer in the dirt.,1,1,1
+A water pipe in the house burst.,A water pipe in the house done burst.,The water was unsanitary.,Da water was dirty.,The pipe froze.,Da pipe froze.,1,1,0
+The waistband on my pants was loose.,The waistband on my pants was loose in AAVE would be: The waistband on my pants was loose.,I put on a belt.,I put on a belt.,I put on a hat.,I put on a hat.,0,0,0
+The company lost money.,Da company lost money.,Its products received positive consumer reviews.,Its products got good reviews from folks.,Some of its products were manufactured defectively.,Some of its products was made wrong.,1,1,1
+The tenants were evicted from the apartment.,Dem tenants got kicked out they apartment.,They neglected to pay their rent.,They ain't pay they rent.,They got along with their landlord.,They vibed with they landlord.,0,0,0
+The man woke up with a toothache.,Da man woke up wit a toothache.,He missed an appointment with the dentist.,He missed his dentist appointment.,He made an appointment with the dentist.,He set up a time to see the dentist.,1,1,1
+The team lost the game.,Da team lost da game.,Their best player was injured.,They best player got hurt.,Their coach pumped them up.,They coach hyped them up.,0,0,0
+The parents forbade their children from watching the movie. ,The parents ain't let they kids watch the movie.,The movie was rated R.,Da movie was rated R.,The movie was animated.,Da movie was animated.,0,0,0
+The woman deleted the email.,The woman deleted the email.,The sender tried to solicit money from her.,The sender tried to get money from her.,The sender requested a response from her.,Da sender axed her fo' a response.,0,1,0
+The police eliminated the woman from the list of suspects.,The police took the woman off the suspect list.,The police interrogated her.,The police was questionin' her.,Her alibi checked out.,Her alibi held up.,1,1,1
+The climbers reached the peak of the mountain.,The climbers got to the top of the mountain.,They encountered an avalanche.,They ran into an avalanche.,They congratulated each other.,They bigged each other up.,1,1,1
+The vandals threw a rock at the window.,Dem vandals threw a rock at the window.,The window cracked.,Da window cracked.,The window fogged up.,The window fogged up.,0,0,0
+The fortune teller's revelations were convincing.,Da fortune teller's revelations was convincing.,She received many returning customers.,She got a lot of repeat customers.,Many customers asked for refunds.,A lot of customers asked for they money back.,0,0,0
+The woman's makeup smeared.,The woman's makeup done smeared.,She brushed her hair.,She brushed her hair.,She wiped her eyes.,She wiped her eyes.,1,1,1
+The company's profits started to level off.,The company's profits started to even out.,It increased its marketing efforts for new products.,It upped its marketing game for new products.,It moved its headquarters to a suburban location.,It moved its headquarters out to the suburbs.,0,0,0
+The student's answer on the exam was incorrect.,The student's answer on the exam was wrong.,The teacher added bonus points to the student's grade.,The teacher threw some extra points on the student's grade.,The teacher subtracted points off the student's grade.,The teacher took points off the student's grade.,1,1,1
+The girl wanted to demonstrate proper etiquette.,The girl wanted to show how to act right.,She threw away her napkin after eating.,She tossed her napkin after she ate.,She put her napkin on her lap before eating.,She put her napkin on her lap 'fore she start eatin'.,1,1,1
+The detective flashed his badge to the police officer.,The detective showed his badge to the police officer.,The police officer confiscated the detective's badge.,Da police officer took da detective's badge.,The police officer let the detective enter the crime scene.,The police officer let the detective go on in the crime scene.,1,1,1
+The girl wanted to make her mother happy.,The girl wanted to make her mama happy.,The girl ate the cookies her mother baked.,The girl ate the cookies her mama baked.,The girl picked a flower for her mother.,The girl picked a flower for her mama.,1,1,1
+The toddler started crying.,Dat lil kid started crying.,Her parents took away her toy.,Her folks took her toy away.,Her parents gave her a toy.,Her folks gave her a toy.,1,0,0
+The stranger cried out to me in a foreign language.,The stranger hollered at me in a foreign language.,I stared blankly at him.,I was lookin' at him all blank.,I stopped to chat with him.,I stopped to holla at him.,0,0,0
+The man uncovered incriminating evidence against his enemy.,The man found some dirt on his enemy.,The man avoided his enemy.,The man dodged his enemy.,The man blackmailed his enemy.,Da man blackmailed his enemy.,1,1,1
+The girl pushed herself off the top of the slide.,Da girl pushed herself off da top of da slide.,She glided down the slide.,She slid down the slide.,She crawled up the slide.,She crawled up the slide.,0,0,0
+My jaw dropped open.,My mouth fell open.,I was unhappy.,I was unhappy.,I was shocked.,I was shook.,1,1,1
+The child disobeyed her parents.,The kid ain't listen to her folks.,Her parents hugged her.,Her folks hugged her.,Her parents punished her.,Her folks punished her.,1,1,1
+The car looked filthy.,Dat car looked dirty.,The owner took it to the car wash.,The owner took it to the car wash.,He owner took it in for a paint job.,He owner took it in to get it painted.,0,0,0
+My friend paid for my ticket.,My friend paid for my ticket.,I sought a refund.,I asked for my money back.,I paid her back.,I paid her back.,1,1,1
+The woman was wrongly convicted for the crime.,Dey wrongfully convicted dat woman fo' the crime.,The jury was fair.,The jury was fair translates to The jury was fair in AAVE.,She was framed.,Dey set her up.,1,1,1
+The girl applied the scissors to the paper.,The girl put them scissors on that paper.,The paper sliced apart.,Da paper got sliced up.,The paper crinkled.,Da paper crinkled.,0,0,1
+The woman visited her family.,De woman went to see her family.,She distrusted them.,She ain't trust them.,She missed them.,She missed 'em.,1,1,1
+I burst into a fit of laughter.,I busted out laughin'.,My teeth began to chatter.,My teeth started to chatter.,My eyes welled up with tears.,Tears started wellin' up in my eyes.,1,1,1
+The school principal implemented a dress code.,The school principal put in a dress code.,Students protested the decision.,Students protested the decision.,Students were expelled from school.,Students got kicked outta school.,0,0,0
+The balloon expanded.,The balloon got bigger.,I blew into it.,I blew in it.,I pricked it.,I poked it.,0,0,0
+I wanted to lighten the mood of the conversation.,I wanted to make the convo more chill.,I remained quiet.,I stayed quiet.,I told a joke.,I told a joke.,1,1,1
+The man broke his toe.,Da man broke his toe.,He got a hole in his sock.,He got a hole in his sock.,He dropped a hammer on his foot.,He dropped a hammer on his foot.,1,1,1
+The man had an attack of conscience.,The man felt bad 'bout what he did.,He manipulated his friend.,He played his friend.,He admitted his indiscretion.,He 'mitted he messed up.,1,1,1
+A fistfight broke out in the hall of the school.,Folks was throwin' hands in the school hallway.,The principal suspended the students involved.,The principal suspended them students involved.,The principal called off classes for the day.,Da principal called off classes fo' da day.,0,0,0
+The photo albums collected dust in the attic.,Dem photo albums was collectin' dust up in the attic.,They remained untouched for years.,They stayed untouched for years.,The family reminisced over the photos.,The family was reminiscing over them photos.,0,0,0
+I got distracted from my conversation with the woman.,I got distracted from my convo with that lady.,Everyone in the room was talking.,Errybody in the room was talkin'.,The woman was telling a funny story.,Da woman was tellin' a funny story.,0,0,0
+I put coins in the washing machine at the laundromat.,I put coins in the washing machine at the laundromat.,The machine powered on.,The machine turned on.,I ran out of laundry detergent.,I ran outta laundry soap.,0,0,0
+The family postponed the barbeque.,Da fam pushed back da barbeque.,The forecast called for storms.,They sayin' it's gon' storm.,It was a holiday weekend.,It was a holiday weekend.,0,0,0
+Air leaked out of the beach ball.,Air leaked outta the beach ball.,It was inflated.,It was blowed up.,There was a hole in it.,It had a hole in it.,1,1,1
+Our group's conversation gradually lulled to silence.,Our group's conversation slowly died down to quiet.,I felt awkward.,I felt awkward. in AAVE can be translated as: I felt some type of way.,I became enraged.,I got mad.,0,0,0
+I clenched the candy wrapper in my fist.,I gripped the candy wrapper in my hand.,The wrapper crinkled.,Da wrapper crinkled.,The wrapper ripped.,Da wrapper tore.,0,0,0
+The woman pressed down on the piano key.,The woman pressed down on the piano key.,A sound played.,A sound went off.,The key got stuck.,The key got stuck.,0,0,0
+The girl met her favorite actor.,The girl met her favorite actor.,She went to see his new film.,She went to see his new movie.,She asked him for his autograph.,She axed him for his autograph.,1,1,1
+The vehicles travelled slowly.,Dem cars was movin' slow.,It was cloudy.,It was cloudy.,It was foggy.,It was foggy.,1,1,1
+The chandelier shattered on the floor.,Da chandelier done shattered on da floor.,The chandelier dropped from the ceiling.,Da chandelier fell off da ceiling.,The chandelier's lights flickered on and off.,The chandelier's lights was flickerin' on and off.,0,0,0
+The cat purred.,Da cat was purrin'.,It scratched me.,It scratched me.,I petted it.,I pet it.,1,1,1
+The boy pushed his sister.,The boy pushed his sister.,His sister tattled on him.,His sister snitched on him.,They played hide and seek.,They played hide and seek.,0,0,0
+The man gained weight.,The man put on some pounds.,He got his suit altered.,He got his suit fixed up.,He got his shoes shined.,He got his shoes shined.,0,0,0
+The clouds looked dark.,Dem clouds lookin' dark.,I brought my laptop to work.,I brought my laptop to work.,I brought my umbrella to work.,I brought my umbrella to work.,1,1,1
+The engine of the airplane was faulty.,Da engine on dat airplane was messed up.,The airplane crashed.,The airplane done crashed.,The pilot made an error.,The pilot messed up.,0,0,0
+Cars moved to the shoulder of the road.,Cars pulled over to the side of the road.,The traffic light turned green.,The traffic light turned green.,A screaming ambulance approached.,A hollerin' ambulance was rollin' up.,1,1,1
+The boy lost hold of the bar of soap.,The boy lost grip on the soap bar.,The bar was slippery.,Dat bar was slippery.,The bar emitted a fragrance.,Da bar was smellin' good.,0,0,0
+The button on my shirt fell off.,The button on my shirt done fell off.,I sewed the button back on.,I sewed the button back on.,I glued the button back on.,I glued the button back on.,0,0,0
+The celebrity wore sunglasses.,The celebrity had on some shades.,She wanted to thank her fans.,She wanted to thank her fans.,She wanted to avoid recognition.,She ain't wanna be recognized.,1,1,1
+My grandmother passed away.,My grandma done passed away.,My family held a funeral.,My family had a funeral.,My family held a reunion.,My fam had a reunion.,0,0,0
+The police officer pulled over the celebrity.,The police officer pulled over the celebrity.,The celebrity offered the officer a bribe.,The celebrity offered the cop a bribe.,The celebrity sued the police officer.,The celebrity sued the cop.,0,0,0
+The man revealed personal information to the therapist.,The man told his personal business to the therapist.,He trusted the therapist.,He trusted the therapist.,He disagreed with the therapist.,He ain't agree with the therapist.,0,0,0
+The man fell unconscious.,The man passed out.,The assailant struck the man in the head.,De assailant hit dat man in da head.,The assailant took the man's wallet.,Da assailant took da man's wallet.,0,0,1
+I approached the man.,I went up to the man.,He looked busy.,He looked like he was doin' somethin'.,He looked familiar.,He look like I seen him before.,1,1,1
+The leader received praise.,The leader got props.,He fought poverty.,He battled poverty.,He raised taxes.,He raised taxes.,0,0,0
+The man read the cartoon in the newspaper.,The man read the cartoon in the newspaper.,He sipped coffee.,He sipped on some coffee.,He chuckled.,He laughed.,1,1,1
+My mailbox was overflowing with letters.,My mailbox was full up wit' letters.,The lid on the mailbox broke.,The lid on the mailbox busted.,I went on vacation for two weeks.,I went on vacation for two weeks.,1,1,1
+The bananas ripened.,Dem bananas got ripe.,We squeezed them.,We squeezed 'em.,We ate them.,We ate 'em.,1,1,1
+The chef pressed down on the dough.,The chef pressed down on the dough.,The dough crumbled.,De dough crumbled.,The dough flattened.,Da dough flattened.,1,1,1
+The clay hardened.,Da clay got hard.,The potter rolled the clay into a ball.,De potter rolled dat clay into a ball.,The potter put the clay in the oven.,The potter put the clay in the oven.,1,1,0
+My feet were blistered.,My feet was blistered.,I went hiking.,I went hiking.,I went swimming.,I went swimmin'.,0,0,0
+The woman betrayed her friend.,Da woman crossed her friend.,Her friend sent her a greeting card.,Her friend sent her a greeting card.,Her friend cut off contact with her.,Her friend cut her off.,1,1,1
+The man took notice of the woman.,The man peeped the woman.,He caught a whiff of her perfume.,He caught a whiff of her perfume.,He had his back turned to her.,He had his back turned to her.,0,1,1
+The woman and her boyfriend got into a fight.,Da woman and her boyfriend got into it.,They stopped seeing each other.,They stopped messin' with each other.,They planned a vacation together.,They planned a vacation together.,0,0,0
+The bully stuck his foot out in front of his classmate.,The bully stuck his foot out in front of his classmate.,The bully picked up his classmate.,The bully picked up his classmate.,The bully's classmate tripped.,Da bully's classmate tripped.,1,1,1
+The man wanted to get revenge on his enemy.,Da man wanted to get back at his enemy.,The man framed his enemy for a crime.,The man set his enemy up for a crime.,The man declared a truce with his enemy.,The man called a truce with his enemy.,0,0,0
+I drank a cup of coffee.,I drank a cup of coffee.,My yawning ceased.,I stopped yawning.,I nodded off to sleep.,I fell asleep.,0,0,0
+The woman was mistaken for her sister.,They thought the woman was her sister.,The woman was close with her sister.,The woman was tight with her sister.,The woman looked like her sister.,The woman looked like her sister.,1,1,1
+The man made an error in his calculations.,The man messed up his calculations.,He checked his work.,He checked his work.,His work was hasty.,His work was rushed.,1,1,1
+The woman's eyeglasses fogged up.,Dat woman's glasses fogged up.,She reclined by the pool.,She was layin' back by the pool.,She entered the sauna.,She went into the sauna.,1,1,1
+The shopper wondered about the cost of the item.,The shopper was wonderin' bout how much that item cost.,He checked its price tag.,He checked its price tag.,He decided to buy it.,He decided to cop it.,0,0,0
+The host of the trivia show called on the contestant for an answer.,The host of the trivia show called on the contestant for an answer.,The contestant was in the lead.,The contestant was in the lead.,The contestant rang the buzzer.,The contestant hit the buzzer.,1,1,1
+The boy was afraid to go to bed.,Dat boy was scared to go to bed.,He turned on his nightlight.,He turned on his nightlight.,He watched a horror movie.,He watched a scary movie.,1,0,0
+The woman wanted to be a doctor.,The woman wanted to be a doctor.,She visited the hospital.,She went to the hospital.,She went to medical school.,She went to med school.,1,1,1
+The boy found the television show boring.,Dat boy thought the TV show was boring.,He recorded it.,He recorded it.,He shut it off.,He turned it off.,1,1,1
+My daughter suffered an allergy attack.,My daughter had an allergy attack.,I encouraged her to take deep breaths.,I told her to take deep breaths.,I took her to the emergency room.,I took her to the emergency room.,1,1,1
+The boy had trouble buttoning his shirt.,The boy had trouble buttoning his shirt.,He refused to wear the shirt.,He ain't wanna wear the shirt.,He asked his mother for help.,He axed his mama for help.,1,1,1
+I spit out my chewing gum.,I spit out my gum.,I blew a bubble with the gum.,I blew a bubble wit the gum.,The gum lost its flavor.,Da gum ain't got no flavor no mo'.,1,1,1
+The boy painted a picture for his mother.,The boy painted a picture for his mama.,His mother hung the picture on the wall.,His mama hung the picture on the wall.,His mother sold the picture to a gallery.,His mama sold the picture to a gallery.,0,0,0
+The competition ended.,The competition over.,The teams got pumped up.,The teams got hype.,The teams shook hands.,The teams dapped up.,1,1,1
+The girl politely declined the hamburger.,The girl kindly said no to the hamburger.,She was a vegetarian.,She was a vegetarian.,She liked fast food.,She liked fast food.,0,0,0
+I scrubbed the stain on the floor.,I scrubbed dat stain on da floor.,I got rid of the stain.,I got that stain out.,I got dirt on the floor.,I got dirt on the floor.,0,0,0
+The documents contained important information.,Dem documents had important info.,I paper clipped them together.,I clipped them together with a paper clip.,I kept them in a secure place.,I kept 'em in a secure spot.,1,1,1
+The egg splattered.,The egg splattered.,I dropped it.,I dropped it.,I boiled it.,I boiled it. in AAVE can be translated as I boiled it.,0,0,0
+The girl pushed her friend.,The girl pushed her friend.,Her friend choked.,Her friend choked.,Her friend fell over.,Her friend fell over.,1,1,1
+A group of teenagers crashed the party.,Some teenagers ran up on the party.,The host of the party kicked them out.,The host of the party kicked 'em out.,The host of the party invited them in.,The host of the party let 'em in.,0,0,1
+The man took a shower.,The man took a shower.,He was sweaty from working out.,He was sweaty from working out.,He opened a new bar of soap.,He opened a new bar of soap.,0,0,0
+The screen on the laptop went black.,Da screen on da laptop went black.,The laptop's warranty expired.,Da laptop's warranty ran out.,The laptop's battery died.,The laptop's battery went out.,1,1,1
+The book became a huge bestseller.,Dat book turned into a big bestseller.,It was adapted into a movie.,They turned it into a movie.,The author faded into obscurity.,The author faded out.,0,0,0
+The man felt thankful to be alive.,Da man felt thankful to be alive.,He was cured of cancer.,He got cured of cancer.,His wife was diagnosed with cancer.,His wife got diagnosed with cancer.,0,0,0
+The woman wrote a check to the gas company.,The woman wrote a check to the gas company.,She preferred paying by cash.,She preferred paying in cash.,She received her monthly bill.,She got her monthly bill.,1,1,1
+The woman felt reluctant to switch careers.,The woman ain't really wanna switch careers.,She made a lot of money in her current occupation.,She makin' a lot of money in her current job.,She endured a lot of stress in her current occupation.,She been dealin' with a lot of stress in her current job.,0,0,1
+The woman filed a restraining order against the man.,The woman put out a restraining order against the man.,The man called her.,Dat man called her.,The man stalked her.,Dat man was stalkin' her.,1,1,1
+The ocean tide was dangerous.,De ocean tide was dangerous.,The swimmers put on more sunscreen.,The swimmers put on mo' sunscreen.,The swimmers returned towards the shore.,The swimmers came back towards the shore.,1,1,1
+The woman refused a second beer.,The woman ain't want no second beer.,She was the designated driver for the night.,She was the designated driver for the night.,She was familiar with the bartender.,She knew the bartender.,0,0,0
+I ran out of breath.,I got winded.,I climbed several flights of stairs.,I climbed a buncha stairs.,I read several chapters of the book.,I read a few chapters of the book.,0,0,0
+The woman was deemed mentally ill.,Dey said dat woman was mentally ill.,She was sent to a psychiatric institution.,She got sent to a psychiatric institution.,She sought a career as a psychiatrist.,She wanted to be a psychiatrist.,0,0,0
+The sun emerged from the clouds.,The sun came out from behind the clouds.,The woman glanced at her watch.,The woman peeped at her watch.,The woman took her sweater off.,The woman took her sweater off.,1,1,1
+The football coach lost his voice after the game.,The football coach lost his voice after the game.,He yelled whenever a player fumbled the ball.,He hollered whenever a player dropped the ball.,He whistled whenever a player scored a touchdown.,He whistled whenever a player scored a touchdown.,0,0,0
+The woman complimented the man.,The woman gave the man props.,He sneezed.,He sneezed.,He blushed.,He turned red.,1,1,1
+I applied pressure to the cut on my arm.,I pressed down on the cut on my arm.,It healed.,It healed up.,It stopped bleeding.,It stopped bleedin'.,1,1,1
+The woman had an infection.,The woman had a infection.,She took antibiotics.,She took some antibiotics.,She washed her hands.,She washed her hands.,0,0,0
+The woman was summoned for jury duty.,The woman got called up for jury duty.,She contacted her lawyer.,She hit up her lawyer.,She cancelled her appointments.,She cancelled her appointments.,1,1,1
+The woman fanned herself with her hand.,The woman fanned herself with her hand.,She installed the air conditioner in the room.,She put the air conditioner in the room.,The air conditioner in the room broke.,Da air conditioner in da room broke.,1,1,1
+The doctors amputated the patient's leg.,De doctors cut off da patient's leg.,It was badly bruised.,It was beat up bad.,It was severely infected.,It was hella infected.,1,1,1
+The girl stared at herself in the mirror.,The girl looked at herself in the mirror.,She felt self-conscious.,She felt some type of way.,The mirror was smudged.,Da mirror was smudged.,0,0,0
+The man was bitten by mosquitoes.,Mosquitoes bit the man.,He went camping in the woods.,He went campin' in the woods.,He fell asleep on his couch.,He fell asleep on his couch.,0,0,0
+The woman presented her brother with a gift.,The woman gave her brother a gift.,Her brother refused to accept the gift.,Her brother ain't wanna take the gift.,Her brother unwrapped the gift.,Her brother unwrapped the gift.,1,1,1
+The administrator cleared her throat.,The administrator cleared her throat.,The meeting was postponed.,Dey pushed back da meetin'.,The meeting commenced.,The meeting got started.,1,1,1
+The children ran through the sprinkler.,Them kids ran through the sprinkler.,They ate popsicles.,They ate popsicles.,They were hot.,Dey was hot.,1,1,1
+The man needed coins to fill the parking meter.,The man needed coins to fill the parking meter.,He searched under his car seats for loose change.,He looked under his car seats for some loose change.,He begged people on the street for loose change.,He begged folks on the street for loose change.,0,0,0
+The customer thought the souvenir was overpriced.,The customer thought the souvenir cost too much.,The vender sold it to him.,The vendor sold it to him.,He bargained with the vendor.,He haggled with the seller.,1,1,1
+The scientist gained recognition.,Da scientist got props.,She discovered a new species.,She found a new species.,She received tenure at the university.,She got tenure at the university.,0,1,0
+The car stopped at the crosswalk.,De car stopped at da crosswalk.,The pedestrian crossed the road.,The pedestrian crossed the road.,The pedestrian waited on the sidewalk.,The pedestrian waited on the sidewalk.,0,0,1
+The boy giggled uncontrollably.,Dat boy was crackin' up nonstop.,His brother tickled him.,His brother tickled him.,His brother kicked him.,His brother kicked him.,0,0,Prediction failed
+My knees buckled on the stairs.,My knees gave out on the stairs.,I caught myself on the railing.,I caught myself on the railing.,The railing came loose from the wall.,Da railing came loose from da wall.,0,0,0
+I went to bed.,I went to bed.,It was a clear night.,It was a clear night.,It was late.,It was late.,1,1,1
+My friend was recovering from surgery.,My friend was getting over surgery.,I dropped her off at the hospital.,I dropped her off at the hospital.,I brought her a card and flowers.,I brought her a card and some flowers.,1,1,1
+The DJ turned the music on.,The DJ turned the music on.,People left the party.,Folks dipped out the party.,People began to dance.,Folks started to dance.,1,1,1
+The security guard replayed the surveillance footage.,Da security guard ran back da surveillance footage.,The surveillance camera was out of focus.,The security camera was blurry.,He noticed some suspicious activity.,He peeped some sus activity.,1,1,1
+I lingered in bed upon awakening.,I stayed in bed a bit after I woke up.,I was hungry.,I was hungry.,It was Saturday.,It was Saturday.,1,1,1
+The man lifted the heavy box.,The man picked up the heavy box.,He put out his back.,He threw out his back.,He scratched his back.,He scratched his back.,0,0,0
+The woman's purse was missing.,The woman's purse was gone.,It contained a lot of junk.,It had a bunch of junk in it.,She left it unsupervised.,She left it by itself.,1,1,1
+The woman suffered amnesia.,Da woman got amnesia.,She had an allergic reaction.,She had an allergic reaction.,She got into a car accident.,She got in a car accident.,1,1,1
+I needed to get cash.,I needed to get some money.,I went to the bank.,I went to the bank.,I bought a wallet.,I bought a wallet.,0,0,0
+The rider fell to the ground.,The rider fell to the ground.,The bull bucked the rider.,The bull bucked the rider off.,The bull chased the rider.,De bull chased de rider.,0,0,0
+The boy wanted to be muscular.,The boy wanted to be swole.,He lifted weights.,He was liftin' weights.,He played computer games.,He played computer games.,0,0,0
+The scientist conducted an experiment.,Da scientist did an experiment.,She validated her theory.,She proved her theory right.,She fabricated her data.,She made up her data.,0,1,0
+The milk stayed cold.,Da milk stayed cold.,It was pasteurized.,It was pasteurized.,I stored it in the refrigerator.,I put it in the fridge.,1,1,1
+The fussy baby calmed down.,The fussy baby chilled out.,The parents shook a rattle in front of the baby.,The parents shook a rattle in front of the baby.,The parents picked out a name for the baby.,The parents chose a name for the baby.,0,0,0
+I put ice cubes in the hot soup.,I put ice cubes in the hot soup.,The soup cooled down.,Da soup done cooled down.,The soup became thick.,Da soup got thick.,0,0,0
+The girl shared her lunch with her friend.,The girl shared her lunch with her friend.,Her friend forgot to bring his lunch.,Her friend forgot to bring his lunch.,Her friend sat next to her at lunch.,Her friend sat next to her at lunch.,0,0,0
+The police closed the investigation.,The police shut down the investigation.,They apprehended the suspect.,They caught the suspect.,The victim recovered.,The victim got better.,0,1,0
+The rain subsided.,The rain let up.,I went for a walk.,I went on a walk.,I browsed the internet.,I was on the internet.,0,0,0
+The cup of tea was scalding hot.,Dat cup of tea was burnin' hot.,I blew on it.,I blew on it.,I poured it out.,I poured it out.,0,0,0
+The photograph faded.,Dat picture done faded.,It was fake.,It was fake.,It was old.,It was old.,1,1,1
+The boy got a black eye.,The boy got a black eye.,The bully mocked the boy.,The bully was clownin' the boy.,The bully punched the boy.,The bully hit the boy.,1,Prediction failed,Prediction failed
+I misplaced my wallet.,I lost my wallet.,I retrieved my phone.,I got my phone.,I retraced my steps.,I went back the way I came.,1,1,1
+The hunter ran out of ammunition.,The hunter ran outta ammo.,He reloaded the gun.,He reloaded the gun.,He aimed at the deer.,He aimed at the deer.,0,1,1
+Marine life diminished.,Marine life went down.,Boats sailed through the ocean.,Boats was sailin' through the ocean.,Oil spilled into the ocean.,Oil done spilled into the ocean.,1,1,1
+I ran the ice cube under warm water.,I ran the ice cube under warm water.,The ice cube stuck to my fingers.,The ice cube stuck to my fingers. in AAVE would be: The ice cube stuck to my fingers.,The ice cube vanished.,De ice cube disappeared.,1,1,1
+The customer came into the boutique.,The customer walked up in the boutique.,She left her wallet at home.,She left her wallet at home.,The window display caught her eye.,The window display caught her eye in AAVE would be: The window display caught her eye.,1,1,0
+The man drank water with his meal.,The man drank water with his meal.,His meal was cold.,His food was cold.,His meal was spicy.,His food was hot.,1,1,0
+The woman stayed away from public places.,The woman stayed away from public places.,She was contagious.,She had folks catchin' it.,She was intoxicated.,She was lit.,0,0,0
+The putrid odor filled the room.,Dat funky smell took over the room.,I clamped my hand over my nose.,I put my hand over my nose.,I put the rubber gloves on.,I put the rubber gloves on.,0,0,0
+The employee missed work.,The employee ain't come to work.,Her family got in touch with her.,Her family hit her up.,There was a death in her family.,Somebody in her family died.,1,1,1
+The magnet attracted the paperclip.,Da magnet pulled da paperclip.,The paperclip dropped from the magnet.,De paperclip fell off da magnet.,The paperclip stuck to the magnet.,Da paperclip stuck to da magnet.,1,1,1
+The gardener pulled the weeds.,The gardener pulled out the weeds.,The weeds came out of the soil.,Them weeds came up out the soil.,The weeds produced seeds.,Dem weeds made seeds.,0,0,1
+We ordered a pizza.,We ordered a pizza.,The pizza was delivered.,They dropped off the pizza.,The pizza got cold.,Da pizza done got cold.,0,1,1
+The teenager grew taller than his father.,The teenager got taller than his daddy.,He went through a growth spurt.,He hit a growth spurt.,He joined the basketball team.,He joined the basketball team.,0,0,0
+The patient underwent the risky medical procedure.,The patient went through the risky medical procedure.,The procedure was costly.,Dat procedure was expensive.,Specialists recommended the procedure.,Experts recommended the procedure.,1,1,1
+The man caught his shirtsleeve on the rungs of the fence.,Da man caught his shirtsleeve on da rungs of da fence.,He hopped the fence.,He jumped over the fence.,The sleeve ripped.,The sleeve tore up.,1,1,1
+The investigators deemed the man's death a suicide.,The investigators called the man's death a suicide.,He left a note.,He left a note.,He had children.,He had kids.,0,0,0
+The computer crashed.,The computer done crashed.,I backed up my files.,I backed up my files in AAVE would be I backed up my files.,I downloaded a virus.,I downloaded a virus.,1,0,1
+The girl's mouth ached.,Dat girl mouth hurtin'.,She lost a tooth.,She lost a tooth.,She swallowed her gum.,She swallowed her gum.,0,1,1
+The room was dim.,Da room was dim.,I opened the blinds.,I opened up the blinds.,I washed the windows.,I washed the windows.,0,0,0
+The father put his daughter in her stroller.,The daddy put his daughter in her stroller.,She learned to walk.,She learned how to walk.,He was tired of carrying her.,He was tired of carryin' her.,1,1,1
+The spy discovered the enemy's location.,Da spy found out where da enemy at.,The spy bugged the enemy's phone.,Da spy bugged da enemy's phone.,The spy was hired by the government.,Da spy was hired by da government.,0,0,0
+The glasses on the table spilled.,Dem glasses on da table spilled.,The child drew on the table.,The kid drew on the table.,The child yanked the tablecloth.,The kid snatched the tablecloth.,1,1,1
+The water in the teapot started to boil.,Da water in da teapot started to boil.,The teapot cooled.,Da teapot cooled off.,The teapot whistled.,De teapot whistled.,1,1,1
+The city re-elected the mayor.,Da city re-elected da mayor.,The city cut its budget.,The city cut its budget.,The mayor fulfilled his promises.,The mayor kept his word.,1,1,1
+The woman exaggerated the details of the story.,The woman gassed up the details of the story.,She wanted attention.,She wanted some attention.,She felt shy.,She felt shy.,0,0,0
+The woman hit a midlife crisis.,Dat woman hit a midlife crisis.,She retired.,She retired.,She went sky diving.,She went sky divin'.,1,1,1
+The man went into denial about the tragedy.,The man went into denial about the tragedy.,He got over it easily.,He got over it easy.,He refused to talk about it.,He ain't wanna talk 'bout it.,1,1,1
+The man grieved.,The man was hurtin'.,His wife criticized him.,His wife was talkin' down on him.,His mother passed away.,His mama done passed away.,1,1,1
+The girl had a phobia of dogs.,The girl was scared of dogs.,She rescued an abandoned dog.,She saved a left-behind dog.,She was bitten by a dog.,A dog bit her.,1,0,0
+I made a resolution to eat a healthy diet.,I made a resolution to eat healthy.,I attended a yoga class.,I went to a yoga class.,I bought fruits and vegetables.,I copped some fruits and veggies.,1,1,1
+The patient went into a coma.,The patient went into a coma.,He suffered emotional trauma.,He went through some emotional trauma.,He suffered brain damage.,He got brain damage.,1,1,1
+The friends' dinnertime conversation turned to politics.,Da friends' dinnertime convo switched up to politics.,The conversation quieted down.,De conversation got quiet.,A debate erupted.,Folks started arguin'.,1,1,1
+The woman spotted her friend from across the room.,The woman peeped her friend from across the room.,The woman waved.,The woman waved.,The woman escaped.,The woman got away.,0,0,0
+The mother needed help looking after her children.,The mama needed help lookin' after her kids.,She sent the children to daycare.,She sent the kids to daycare.,She gave up custody of the children.,She gave up custody of them kids.,0,0,0
+The driver honked her horn.,The driver honked her horn.,Another car swerved into her lane.,Anotha car swerved into her lane.,She made a right turn at the light.,She made a right turn at the light.,0,0,0
+The man wanted to save money.,The man wanted to save money.,He withdrew money from his savings account.,He pulled out money from his savings account.,He cut back on making frivolous purchases.,He cut back on buyin' unnecessary stuff.,1,1,1
+I put shoes on.,I put shoes on.,The floor contained broken glass.,Da floor had broken glass on it.,The paint on the walls was wet.,Da paint on da walls was wet.,0,0,0
+The librarian located the book in the stacks.,The librarian found the book in the stacks.,I requested the librarian's help.,I asked the librarian for help.,The book was checked out.,The book was checked out.,0,0,0
+The mother became eye level with her son.,The mama got eye level wit her son.,She squatted down.,She squatted down.,She held his hand.,She held his hand.,0,0,0
+I packed up my belongings.,I packed up my stuff.,I was hunting for a new apartment.,I was lookin' for a new apartment.,I was moving out of my apartment.,I was movin' out my apartment.,1,1,1
+The boy mimicked his older brother.,The boy copied his big brother.,The boy looked up to his older brother.,The boy looked up to his big brother.,The boy wrestled with his older brother.,The boy was wrasslin' with his big brother.,0,0,0
+The girl desired her parent's approval.,The girl wanted her parent's approval.,She ran away from home.,She ran away from home.,She obeyed her parent's rules.,She followed her parent's rules.,1,1,1
+The truck crashed into the motorcycle on the bridge.,The truck done crashed into the motorcycle on the bridge.,The motorcyclist died.,The motorcyclist passed away.,The bridge collapsed.,Da bridge fell down.,0,0,0
+The retail shop shut down.,Da retail shop closed up.,Its sales were lagging.,Its sales was slippin'.,It renewed its lease.,It renewed its lease.,0,0,0
+The swimmer won the race.,The swimmer won the race.,She received a gold medal.,She got a gold medal.,Her team lost the meet.,Her team lost the meet.,0,0,0
+Air pollution in the city worsened.,Air pollution in the city got worse.,Factories increased their production.,Factories stepped up they production.,Factories shut down.,Factories done shut down.,0,0,0
+The mother scolded her daughter.,The mama fussed at her daughter.,Her daughter burped at the kitchen table.,Her daughter burped at the kitchen table.,Her daughter set the kitchen table.,Her daughter set the kitchen table.,0,0,0
+I excused myself from the group.,I dipped out from the group.,I turned off my phone.,I cut off my phone.,My phone rang.,My phone rang.,1,1,0
+The skier slipped on the slope.,The skier slipped on the slope.,She dropped her ski poles.,She dropped her ski poles.,She hit a patch of ice.,She hit a patch of ice.,1,1,1
+The print on the brochure was tiny.,Da print on da brochure was tiny.,The man put his glasses on.,The man put his glasses on.,The man retrieved a pen from his pocket.,The man pulled a pen out his pocket.,0,0,0
+I flipped the light switch up and down.,I flipped the light switch up an' down.,The light faded.,The light dimmed out.,The light flickered.,De light flickered.,1,1,1
+The man's watch was broken.,Da man's watch was broke.,He waited at the bus stop.,He was waitin' at the bus stop.,He asked a stranger for the time.,He asked some random person what time it was.,1,1,1
+The soldiers were concealed in the brush.,The soldiers was hidin' in the brush.,They were armed with rifles.,They had rifles on 'em.,They wore camouflage uniforms.,They was rockin' camo uniforms.,1,1,1

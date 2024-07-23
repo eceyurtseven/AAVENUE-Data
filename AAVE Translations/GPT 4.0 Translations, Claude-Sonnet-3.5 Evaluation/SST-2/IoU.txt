@@ -1,0 +1,3 @@
+Percentage of both wrong: 47.64%
+Intersection over Union (IoU) for Questions: 0.00, 0%
+Intersection over Union (IoU) for Passages: 0.00, 0%

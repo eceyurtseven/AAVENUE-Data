@@ -1,0 +1,3 @@
+Standard English accuracy (COPA): 0.688
+AAVE accuracy (COPA): 0.676
+z-statistic (COPA): 0.4074229631764443, p-value (COPA): 0.6836973641976537

@@ -1,0 +1,3 @@
+Standard English accuracy (SST-2): 0.885
+AAVE accuracy (SST-2): 0.853
+z-statistic (SST-2): 2.1207498474583697, p-value (SST-2): 0.03394285924092265

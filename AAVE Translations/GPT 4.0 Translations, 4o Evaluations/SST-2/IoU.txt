@@ -1,0 +1,2 @@
+Intersection over Union (IoU) for Sentences: 0.04931794333683106, 5%
+Intersection over Union (IoU) for wrong sentiment predictions: 0.07228915662650602, 7%

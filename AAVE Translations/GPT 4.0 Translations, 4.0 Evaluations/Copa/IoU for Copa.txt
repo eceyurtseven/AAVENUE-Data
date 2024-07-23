@@ -1,0 +1,4 @@
+Intersection over Union (IoU) for Premises: 0.11, 11%
+Intersection over Union (IoU) for Choice1: 0.14, 14%
+Intersection over Union (IoU) for Choice2: 0.16, 16%
+Intersection over Union (IoU) for wrong answers in SAE and AAVE: 0.11, 11%

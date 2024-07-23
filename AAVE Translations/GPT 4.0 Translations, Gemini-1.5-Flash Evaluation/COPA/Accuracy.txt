@@ -1,0 +1,2 @@
+Standard English accuracy (COPA): 0.938  93.8%
+AAVE accuracy (COPA): 0.922  92.2%

@@ -1,0 +1,3 @@
+Standard English accuracy (Multi-RC): 0.701
+AAVE accuracy (Multi-RC): 0.620
+z-statistic (Multi-RC): 3.824843947484501, p-value (Multi-RC): 0.00013085494566007652

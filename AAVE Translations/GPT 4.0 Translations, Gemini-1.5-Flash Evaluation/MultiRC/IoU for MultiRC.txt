@@ -1,0 +1,4 @@
+Intersection over Union (IoU) for Paragraphs: 0.00, 0%
+Intersection over Union (IoU) for Questions: 0.02, 2%
+Intersection over Union (IoU) for Answers: 0.27, 27%
+Proportion of questions where both SE and AAVE answers are wrong: 0.0780, 7.80%
