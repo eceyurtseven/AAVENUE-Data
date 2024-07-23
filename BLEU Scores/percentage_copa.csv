@@ -1,0 +1,2 @@
+Premise BLEU_under_10,Premise BLEU_under_20,Premise BLEU_under_30,Premise BLEU_under_50,Premise BLEU_under_70,Choice1 BLEU_under_10,Choice1 BLEU_under_20,Choice1 BLEU_under_30,Choice1 BLEU_under_50,Choice1 BLEU_under_70,Choice2 BLEU_under_10,Choice2 BLEU_under_20,Choice2 BLEU_under_30,Choice2 BLEU_under_50,Choice2 BLEU_under_70
+3.0%,15.6%,33.6%,57.99999999999999%,73.6%,2.8000000000000003%,16.400000000000002%,28.999999999999996%,55.2%,71.39999999999999%,3.4000000000000004%,18.8%,32.800000000000004%,57.8%,69.19999999999999%

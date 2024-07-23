@@ -1,0 +1,2 @@
+Passage BLEU_under_10,Passage BLEU_under_20,Passage BLEU_under_30,Passage BLEU_under_50,Passage BLEU_under_70,Question BLEU_under_10,Question BLEU_under_20,Question BLEU_under_30,Question BLEU_under_50,Question BLEU_under_70,Answer BLEU_under_10,Answer BLEU_under_20,Answer BLEU_under_30,Answer BLEU_under_50,Answer BLEU_under_70
+1.3%,33.5%,58.4%,92.2%,96.8%,4.1000000000000005%,18.4%,34.599999999999994%,61.199999999999996%,83.89999999999999%,7.9%,16.1%,22.1%,38.800000000000004%,48.1%
