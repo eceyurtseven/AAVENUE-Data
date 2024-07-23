@@ -1,0 +1,2 @@
+Average Fluency Score for GPT Translated:
+7.169438669438669

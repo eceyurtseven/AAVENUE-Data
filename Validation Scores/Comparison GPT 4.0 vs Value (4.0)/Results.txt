@@ -1,0 +1,19 @@
+BoolQ:
+Percentage preferring AAVE translation: 71.27%
+Percentage preferring VALUE translation: 23.76%
+Percentage saying 'About the same': 4.98%
+
+COPA:
+Percentage preferring AAVE translation: 56.47%
+Percentage preferring VALUE translation: 40.87%
+Percentage saying 'About the same': 2.67%
+
+SST2:
+Percentage preferring AAVE translation: 65.90%
+Percentage preferring VALUE translation: 17.15%
+Percentage saying 'About the same': 16.94%
+
+WSC:
+Percentage preferring AAVE translation: 68.25%
+Percentage preferring VALUE translation: 31.43%
+Percentage saying 'About the same': 0.32%

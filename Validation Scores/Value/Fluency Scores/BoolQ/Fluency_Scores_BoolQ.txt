@@ -1,0 +1,5 @@
+Average Fluency Score for Value Translated Passage:
+4.180288461538462
+
+Average Fluency Score for Value Translated Question:
+4.71875

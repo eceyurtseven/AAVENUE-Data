@@ -1,0 +1,3 @@
+VALUE Translated Premise Average Score: -2.947378816783428	
+VALUE Translated Choice1 Average Score: -4.9095643043518065	
+VALUE Translated Choice2 Average Score: -4.872504614591598

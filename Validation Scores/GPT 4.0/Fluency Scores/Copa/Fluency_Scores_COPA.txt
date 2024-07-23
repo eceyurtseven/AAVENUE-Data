@@ -1,0 +1,8 @@
+Average Fluency Score for GPT Translated Premise:
+7.6
+
+Average Fluency Score for GPT Translated Choice1:
+8.034
+
+Average Fluency Score for GPT Translated Choice2:
+8.106

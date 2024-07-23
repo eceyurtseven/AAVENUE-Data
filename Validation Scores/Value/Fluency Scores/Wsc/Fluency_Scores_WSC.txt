@@ -1,0 +1,2 @@
+Average Fluency Score for Value Translated Passage:
+3.895238095238095

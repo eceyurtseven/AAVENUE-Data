@@ -1,0 +1,2 @@
+VALUE Translated Question Average Score: -2.726772946663774
+VALUE Translated Passage Average Score: -1.5174835920333862	

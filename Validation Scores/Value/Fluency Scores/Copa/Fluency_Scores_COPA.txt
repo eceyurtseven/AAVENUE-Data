@@ -1,0 +1,8 @@
+Average Fluency Score for Value Translated Premise:
+4.854
+
+Average Fluency Score for Value Translated Choice1:
+5.076
+
+Average Fluency Score for Value Translated Choice2:
+5.04

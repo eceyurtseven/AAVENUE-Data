@@ -1,0 +1,5 @@
+Average Fluency Score for GPT Translated Passage:
+5.987980769230769
+
+Average Fluency Score for GPT Translated Question:
+7.217948717948718

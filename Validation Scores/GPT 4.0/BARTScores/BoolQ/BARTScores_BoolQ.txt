@@ -1,0 +1,2 @@
+GPT Translated Passage Average Score: -2.1840395209594416
+GPT Translated Question Average Score: -3.0419320269272876	
